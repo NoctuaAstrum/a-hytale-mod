@@ -1,6 +1,7 @@
 package com.github.NoctuaAstrum.ChemLib;
 
 import com.github.NoctuaAstrum.ChemLib.core.FileIO;
+import com.github.NoctuaAstrum.ChemLib.core.JsonConverter;
 import com.github.NoctuaAstrum.ChemLib.core.PSE;
 import com.github.NoctuaAstrum.ChemLib.core.asset.element.ElementAsset;
 
@@ -17,9 +18,12 @@ public class Main {
     }
     public static void exportAllElementsAsAssets(){
         for(ElementAsset e : PSE.table.values()){
-            String jsonAsset = ElementAsset.SERIALIZER.from(e);
+            String jsonAsset = JsonConverter.Serializer.ELEMENT_ASSET.from(e);
 
             FileIO.write(jsonAsset, "ChemGen/src/main/resources/Elements/" + e.getName() + ".json");
         }
+    }
+    public static void importPseFromAssets(){
+        PSE.createFromAssets("ChemGen/src/main/resources/Elements");
     }
 }

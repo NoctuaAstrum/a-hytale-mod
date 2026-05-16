@@ -17,6 +17,7 @@ import com.github.NoctuaAstrum.ChemLib.core.asset.element.data.UnitHolder;
 import com.github.NoctuaAstrum.ChemLib.core.asset.element.enums.*;
 
 
+import java.util.Arrays;
 import java.util.Map;
 
 public class ElementAsset /*implements JsonAssetWithMap<String, DefaultAssetMap<String,ElementAsset>>*/ {
@@ -65,7 +66,7 @@ public class ElementAsset /*implements JsonAssetWithMap<String, DefaultAssetMap<
 
     private Map<AbundancePlace, UnitHolder> abundance;
     private String appearance;
-    private UnitHolder atomicMass;
+    private UnitHolder atomicMass = new UnitHolder();
     private OrbitalShellBlocks orbitalShellBlock;
     private int column;
     //private HashMap<String, UnitHolder> electrical; //maybe later down the drain
@@ -74,7 +75,7 @@ public class ElementAsset /*implements JsonAssetWithMap<String, DefaultAssetMap<
     //private HazardData hazard; //maybe later down the drain
     private String name;
     private int number;
-    private String oxidation_state;
+    private String oxidationState;
     //private String oxide_character; //maybe later down the drain
     private String phase;
     private int possibleBounds;
@@ -82,7 +83,7 @@ public class ElementAsset /*implements JsonAssetWithMap<String, DefaultAssetMap<
     private String radioactivity;
     private ElementSet set;
     private int[] shell;
-    private UnitHolder standard_potential;
+    private UnitHolder standardPotential = new UnitHolder();
     private String symbol;
     private int valenceElectrons;
 
@@ -95,14 +96,14 @@ public class ElementAsset /*implements JsonAssetWithMap<String, DefaultAssetMap<
                         int group,
                         String name,
                         int number,
-                        String oxidation_state,
+                        String oxidationState,
                         String phase,
                         int possibleBounds,
                         String[] properties,
                         String radioactivity,
                         ElementSet set,
                         int[] shell,
-                        UnitHolder standard_potential,
+                        UnitHolder standardPotential,
                         String symbol,
                         int valenceElectrons) {
 
@@ -114,17 +115,18 @@ public class ElementAsset /*implements JsonAssetWithMap<String, DefaultAssetMap<
         this.group = group;
         this.name = name;
         this.number = number;
-        this.oxidation_state = oxidation_state;
+        this.oxidationState = oxidationState;
         this.phase = phase;
         this.possibleBounds = possibleBounds;
         this.properties = properties;
         this.radioactivity = radioactivity;
         this.set = set;
         this.shell = shell;
-        this.standard_potential = standard_potential;
+        this.standardPotential = standardPotential;
         this.symbol = symbol;
         this.valenceElectrons = valenceElectrons;
     }
+    public ElementAsset(){}
 
     public String getName() {
         return name;
@@ -158,8 +160,8 @@ public class ElementAsset /*implements JsonAssetWithMap<String, DefaultAssetMap<
         return number;
     }
 
-    public String getOxidation_state() {
-        return oxidation_state;
+    public String getOxidationState() {
+        return oxidationState;
     }
 
     public String getPhase() {
@@ -186,8 +188,8 @@ public class ElementAsset /*implements JsonAssetWithMap<String, DefaultAssetMap<
         return shell;
     }
 
-    public UnitHolder getStandard_potential() {
-        return standard_potential;
+    public UnitHolder getStandardPotential() {
+        return standardPotential;
     }
 
     public String getSymbol() {
@@ -227,4 +229,29 @@ public class ElementAsset /*implements JsonAssetWithMap<String, DefaultAssetMap<
     public String getId() {
         return id;
     }*/
+
+    @Override
+    public String toString(){
+        return "{"+
+                "Id="+id+
+                ",Abundance="+abundance+
+                ",Appearance=\""+appearance+
+                "\",AtomicMass="+atomicMass.toString()+
+                ",OrbitalShellBlock=\""+orbitalShellBlock+
+                "\",Column."+column+
+                ",Group="+group+
+                ",Name=\""+name+
+                "\",Number="+number+
+                ",OxidationState=\""+ oxidationState +
+                "\",Phase=\""+phase+
+                "\",PossibleBounds="+possibleBounds+
+                ",Properties="+Arrays.toString(properties) +
+                ",Radioactivity=\""+radioactivity+
+                "\",Set=\""+set+
+                "\",Shell="+Arrays.toString(shell) +
+                ",StandardPotential="+ standardPotential.toString() +
+                ",Symbol=\""+symbol+
+                "\",ValenceElectrons="+valenceElectrons+
+                "}";
+    }
 }

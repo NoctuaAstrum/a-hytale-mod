@@ -45,4 +45,15 @@ public class UnitHolder{
         this.unitType = unitType;
         this.additionalInfo = additionalInfo;
     }
+
+    public UnitHolder(){}
+
+    @Override
+    public String toString(){
+        return "{"+
+            "Value:"+value+
+            ",UnitType:\""+unitType+
+            "\",AdditionalInfo:\""+additionalInfo+
+            "\"}";
+    }
 }

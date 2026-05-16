@@ -2,11 +2,8 @@ package com.github.NoctuaAstrum.ChemLib.core;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.github.NoctuaAstrum.ChemLib.core.asset.element.ElementAsset;
-import com.github.NoctuaAstrum.ChemLib.core.asset.element.data.UnitHolder;
-import com.github.NoctuaAstrum.ChemLib.core.asset.element.data.UnitTypes;
-import com.github.NoctuaAstrum.ChemLib.core.asset.element.enums.AbundancePlace;
-import com.github.NoctuaAstrum.ChemLib.core.asset.element.enums.ElementSet;
-import com.github.NoctuaAstrum.ChemLib.core.asset.element.enums.OrbitalShellBlocks;
+import com.github.NoctuaAstrum.ChemLib.core.asset.element.data.*;
+import com.github.NoctuaAstrum.ChemLib.core.asset.element.enums.*;
 import com.github.NoctuaAstrum.ChemLib.core.data.*;
 
 import java.util.HashMap;
@@ -28,19 +25,18 @@ public class PSE {
         NamedPSE.DESERIALIZER.from(FileIO.read(filepath), NamedPSE.class).toAssetPSE();
     }
 
-    public static String asString(){
-        StringBuilder sb = new StringBuilder("PSE{\n");
-        for(ElementAsset e: table.values()){
-            sb.append(e.getSymbol());
-            sb.append(":\n");
-            sb.append(e);
+    public static void createFromAssets(String directoryPath){
+        String[] fileDatas = FileIO.readDirectory(directoryPath);
+        if (fileDatas == null) return;
+        for(String data : fileDatas){
+            ElementAsset e = JsonConverter.Deserializer.ELEMENT_ASSET.from(data, ElementAsset.class);
+            table.put(e.getNumber(),e);
         }
-        sb.append("}");
-        return sb.toString();
     }
-    public static class NamedPSE {
-        public static final JsonConverter.Deserializer<NamedPSE> DESERIALIZER = new JsonConverter.Deserializer<>();
-        public LinkedHashMap<String, Element> elements = new LinkedHashMap<>();
+
+    static class NamedPSE {
+        static final JsonConverter.Deserializer<NamedPSE> DESERIALIZER = new JsonConverter.Deserializer<>();
+        LinkedHashMap<String, Element> elements = new LinkedHashMap<>();
 
         private void toAssetPSE(){
             for(Element e :elements.values()){
@@ -48,64 +44,64 @@ public class PSE {
             }
         }
     }
-    public static class Element {
-        public String modified;
-        public HashMap<String, StandardValueData> abundance;
-        public HashMap<String, String> appearance;
-        public StandardValueData atomic_mass;
-        public String basicity;
-        public String block;
-        public HashMap<String, ClassificationData[]> classification;
-        public int column;
-        public String crystal_structure;
-        public StandardValueData curie_point;
-        public ExtensiveValueData[] density;
-        public DiscoveryData discovery;
-        public ElasticityData elastic;
-        public HashMap<String, StandardValueData> electrical;
-        public String electron_config;
-        public HashMap<String, StandardValueData> enthalpy;
-        public String era;
-        public String goldschmidt;
-        public int group;
-        public HardnessData hardness;
-        public HazardData hazard;
-        public HashMap<String, ExtensiveValueData[]> heat;
-        public ImageData image;
-        public IonizationData ionization;
-        public String magnetic_ordering;
-        public StandardConditionData magnetic_susceptibility;
-        public MolarVolumeData molar_volume;
-        public HashMap<String,String> names;
-        public String natural_occurrence;
-        public StandardValueData neel_point;
-        public NegativityData negativity;
-        public int number;
+    static class Element {
+        String modified;
+        HashMap<String, StandardValueData> abundance;
+        HashMap<String, String> appearance;
+        StandardValueData atomic_mass;
+        String basicity;
+        String block;
+        HashMap<String, ClassificationData[]> classification;
+        int column;
+        String crystal_structure;
+        StandardValueData curie_point;
+        ExtensiveValueData[] density;
+        DiscoveryData discovery;
+        ElasticityData elastic;
+        HashMap<String, StandardValueData> electrical;
+        String electron_config;
+        HashMap<String, StandardValueData> enthalpy;
+        String era;
+        String goldschmidt;
+        int group;
+        HardnessData hardness;
+        HazardData hazard;
+        HashMap<String, ExtensiveValueData[]> heat;
+        ImageData image;
+        IonizationData ionization;
+        String magnetic_ordering;
+        StandardConditionData magnetic_susceptibility;
+        MolarVolumeData molar_volume;
+        HashMap<String,String> names;
+        String natural_occurrence;
+        StandardValueData neel_point;
+        NegativityData negativity;
+        int number;
         @JsonIgnore
-        public OpticalData optical;
-        public String oxidation_state;
-        public String oxide_character;
-        public int period;
-        public String phase;
+        OpticalData optical;
+        String oxidation_state;
+        String oxide_character;
+        int period;
+        String phase;
         @JsonIgnore
-        public StandardValueData price;
-        public boolean radioactive;
-        public String radioactivity;
-        public String[] properties;
-        public HashMap<String, DeviableValueData> radius;
-        public String set;
-        public int[] shell;
-        public StandardConditionData[] sound_speed;
-        public AtomicWeightData standard_atomic_weight;
-        public StandardValueData standard_potential;
-        public String superconductivity;
-        public String symbol;
-        public HashMap<String, TemperatureData> temperature;
-        public ToxicityData[] toxicity;
-        public WebLinkData[] weblinks;
-        public HashMap<String,String> wiki;
+        StandardValueData price;
+        boolean radioactive;
+        String radioactivity;
+        String[] properties;
+        HashMap<String, DeviableValueData> radius;
+        String set;
+        int[] shell;
+        StandardConditionData[] sound_speed;
+        AtomicWeightData standard_atomic_weight;
+        StandardValueData standard_potential;
+        String superconductivity;
+        String symbol;
+        HashMap<String, TemperatureData> temperature;
+        ToxicityData[] toxicity;
+        WebLinkData[] weblinks;
+        HashMap<String,String> wiki;
 
-        public ElementAsset toAsset(){
+        ElementAsset toAsset(){
             int valenceElectrons = calculateValenceElectrons();
             String nameEng = getEngDesc(names);
             return new ElementAsset(
@@ -158,7 +154,7 @@ public class PSE {
         private int calculateValenceElectrons(){
             if(group == 1 || group == 2){
                 return group;
-            } else if (group >=3 && group <= 18) {
+            } else if (group >=13 && group <= 18) {
                 return group -10;
             }
             return -1;
@@ -197,7 +193,7 @@ public class PSE {
             STANDARD_POTENTIAL
         }
     }
-    public static class BoundsList{
+    private static class BoundsList{
         private static final HashMap<String,Integer> bounds = new HashMap<>(120);
 
         static {

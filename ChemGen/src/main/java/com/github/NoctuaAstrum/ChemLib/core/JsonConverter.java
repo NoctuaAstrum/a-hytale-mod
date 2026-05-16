@@ -7,6 +7,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
+import com.github.NoctuaAstrum.ChemLib.core.asset.element.ElementAsset;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -26,7 +27,7 @@ public class JsonConverter {
     }
 
     public static class Deserializer<T> {
-
+        public static final Deserializer<ElementAsset> ELEMENT_ASSET = new Deserializer<>();
         /*private void readFile(String filepath, Class<T> type) throws IOException {
             try (FileReader reader = new FileReader(filepath)) {
                 //Element temp = gson.fromJson(reader,Element.class);
@@ -50,6 +51,7 @@ public class JsonConverter {
         }
     }
     public static class Serializer<T> {
+    public static final Serializer<ElementAsset> ELEMENT_ASSET = new Serializer<>();
 
         public String from(T input){
             try {
