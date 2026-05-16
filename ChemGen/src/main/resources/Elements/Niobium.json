@@ -1,0 +1,41 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 2.0
+    },
+    "CRUST" : {
+      "value" : 17000.0
+    },
+    "SUN" : {
+      "value" : 4.0
+    },
+    "METEORITE" : {
+      "value" : 190.0
+    },
+    "WATER" : {
+      "value" : 0.001
+    }
+  },
+  "appearance" : "gray metallic, bluish when oxidized",
+  "atomicMass" : {
+    "value" : 92.90637,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 19,
+  "group" : 5,
+  "name" : "Niobium",
+  "number" : 41,
+  "oxidation_state" : "2, 4, '''5'''",
+  "phase" : "solid",
+  "possibleBounds" : 5,
+  "properties" : [ "natural", "mononuclidic", "stable", "heavy", "refractory" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 12, 1 ],
+  "standard_potential" : {
+    "value" : -1.1,
+    "additionalInfo" : "Nb[2+] + 2e[-] → Nb"
+  },
+  "symbol" : "Nb",
+  "valenceElectrons" : -5
+}

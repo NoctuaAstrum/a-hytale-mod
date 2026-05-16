@@ -1,0 +1,41 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.5
+    },
+    "CRUST" : {
+      "value" : 530.0
+    },
+    "SUN" : {
+      "value" : 1.0
+    },
+    "METEORITE" : {
+      "value" : 80.0
+    },
+    "WATER" : {
+      "value" : 0.001
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 204.38203,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 27,
+  "group" : 13,
+  "name" : "Thallium",
+  "number" : 81,
+  "oxidation_state" : "'''1''', 3",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "stable", "heavy" ],
+  "set" : "METAL",
+  "shell" : [ 2, 8, 18, 32, 18, 3 ],
+  "standard_potential" : {
+    "value" : -0.3363,
+    "additionalInfo" : "Tl[+] + e[-] → Tl"
+  },
+  "symbol" : "Tl",
+  "valenceElectrons" : 3
+}

@@ -1,0 +1,38 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 2.0
+    },
+    "CRUST" : {
+      "value" : 6.3
+    },
+    "SUN" : {
+      "value" : 3.0
+    },
+    "METEORITE" : {
+      "value" : 670.0
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 106.421,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 24,
+  "group" : 10,
+  "name" : "Palladium",
+  "number" : 46,
+  "oxidation_state" : "0, '''+2''', +4",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "natural", "native", "stable", "noble", "heavy", "platinum" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 18 ],
+  "standard_potential" : {
+    "value" : 0.915,
+    "additionalInfo" : "Pd[2+] + 2e[-] → Pd"
+  },
+  "symbol" : "Pd",
+  "valenceElectrons" : 0
+}

@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.4
+    },
+    "CRUST" : {
+      "value" : 200.0
+    },
+    "STREAM" : {
+      "value" : 2.0
+    },
+    "SUN" : {
+      "value" : 1.0
+    },
+    "METEORITE" : {
+      "value" : 120.0
+    },
+    "WATER" : {
+      "value" : 0.2
+    }
+  },
+  "appearance" : "silvery lustrous gray",
+  "atomicMass" : {
+    "value" : 121.7601,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 29,
+  "group" : 15,
+  "name" : "Antimony",
+  "number" : 51,
+  "oxidation_state" : "-3, '''3''', 5",
+  "phase" : "solid",
+  "possibleBounds" : 5,
+  "properties" : [ "natural", "native", "stable", "heavy" ],
+  "set" : "METALLOID",
+  "shell" : [ 2, 8, 18, 18, 5 ],
+  "standard_potential" : {
+    "value" : 0.15,
+    "additionalInfo" : "Sb[3+] + 3e[-] → Sb"
+  },
+  "symbol" : "Sb",
+  "valenceElectrons" : 5
+}

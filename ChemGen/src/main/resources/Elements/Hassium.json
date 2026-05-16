@@ -1,0 +1,18 @@
+{
+  "atomicMass" : {
+    "value" : 265.269,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 22,
+  "group" : 8,
+  "name" : "Hassium",
+  "number" : 108,
+  "possibleBounds" : -1,
+  "properties" : [ "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "highly-radioactive",
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 32, 32, 14, 2 ],
+  "symbol" : "Hs",
+  "valenceElectrons" : -2
+}

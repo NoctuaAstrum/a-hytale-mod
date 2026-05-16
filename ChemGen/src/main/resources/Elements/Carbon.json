@@ -1,0 +1,43 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 5000000.0
+    },
+    "CRUST" : {
+      "value" : 1800000.0
+    },
+    "STREAM" : {
+      "value" : 1200.0
+    },
+    "HUMAN" : {
+      "value" : 2.3E8
+    },
+    "SUN" : {
+      "value" : 3000000.0
+    },
+    "METEORITE" : {
+      "value" : 1.5E7
+    },
+    "WATER" : {
+      "value" : 28000.0
+    }
+  },
+  "appearance" : "black, metallic-looking (graphite); clear (diamond)",
+  "atomicMass" : {
+    "value" : 12.01112,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 28,
+  "group" : 14,
+  "name" : "Carbon",
+  "number" : 6,
+  "oxidation_state" : "-4 … 4",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "natural", "native", "vital", "stable", "semiconductor", "antiquity" ],
+  "set" : "NONMETAL",
+  "shell" : [ 2, 4 ],
+  "symbol" : "C",
+  "valenceElectrons" : 4
+}

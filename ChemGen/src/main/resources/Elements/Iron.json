@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 1100000.0
+    },
+    "CRUST" : {
+      "value" : 6.3E7
+    },
+    "STREAM" : {
+      "value" : 670.0
+    },
+    "HUMAN" : {
+      "value" : 60000.0
+    },
+    "SUN" : {
+      "value" : 1000000.0
+    },
+    "METEORITE" : {
+      "value" : 2.2E8
+    },
+    "WATER" : {
+      "value" : 3.0
+    }
+  },
+  "appearance" : "lustrous metallic with a grayish tinge",
+  "atomicMass" : {
+    "value" : 55.8452,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 22,
+  "group" : 8,
+  "name" : "Iron",
+  "number" : 26,
+  "oxidation_state" : "2, '''3''', 4, 5, 6",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "native", "vital", "stable", "heavy", "antiquity" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 14, 2 ],
+  "standard_potential" : {
+    "value" : -0.44,
+    "additionalInfo" : "Fe[2+] + 2e[-] → Fe"
+  },
+  "symbol" : "Fe",
+  "valenceElectrons" : -2
+}

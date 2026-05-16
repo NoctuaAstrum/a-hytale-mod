@@ -1,0 +1,46 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 7.5E8
+    },
+    "CRUST" : {
+      "value" : 1500000.0
+    },
+    "STREAM" : {
+      "value" : 1.15E8
+    },
+    "HUMAN" : {
+      "value" : 1.0E8
+    },
+    "SUN" : {
+      "value" : 7.5E8
+    },
+    "METEORITE" : {
+      "value" : 2.4E7
+    },
+    "WATER" : {
+      "value" : 1.078E8
+    }
+  },
+  "appearance" : "colorless gas (H{2})",
+  "atomicMass" : {
+    "value" : 1.0081,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "S",
+  "column" : 1,
+  "group" : 1,
+  "name" : "Hydrogen",
+  "number" : 1,
+  "oxidation_state" : "+1, 0, -1",
+  "phase" : "gas",
+  "possibleBounds" : 1,
+  "properties" : [ "natural", "vital", "stable" ],
+  "set" : "NONMETAL",
+  "shell" : [ 1 ],
+  "standard_potential" : {
+    "value" : 0.0
+  },
+  "symbol" : "H",
+  "valenceElectrons" : 1
+}

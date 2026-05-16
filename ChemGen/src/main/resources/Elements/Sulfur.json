@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 500000.0
+    },
+    "CRUST" : {
+      "value" : 420000.0
+    },
+    "STREAM" : {
+      "value" : 4000.0
+    },
+    "HUMAN" : {
+      "value" : 2000000.0
+    },
+    "SUN" : {
+      "value" : 400000.0
+    },
+    "METEORITE" : {
+      "value" : 4.1E7
+    },
+    "WATER" : {
+      "value" : 928000.0
+    }
+  },
+  "appearance" : "yellow sintered microcrystals",
+  "atomicMass" : {
+    "value" : 32.0632,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 30,
+  "group" : 16,
+  "name" : "Sulfur",
+  "number" : 16,
+  "oxidation_state" : "±2 … +6",
+  "phase" : "solid",
+  "possibleBounds" : 6,
+  "properties" : [ "natural", "native", "vital", "stable", "antiquity" ],
+  "set" : "NONMETAL",
+  "shell" : [ 2, 8, 6 ],
+  "standard_potential" : {
+    "value" : -0.48,
+    "additionalInfo" : "S + 2e[-] → S[2-]"
+  },
+  "symbol" : "S",
+  "valenceElectrons" : 6
+}

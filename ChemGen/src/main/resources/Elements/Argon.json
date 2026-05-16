@@ -1,0 +1,33 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 200000.0
+    },
+    "CRUST" : {
+      "value" : 1500.0
+    },
+    "SUN" : {
+      "value" : 70000.0
+    },
+    "WATER" : {
+      "value" : 450.0
+    }
+  },
+  "appearance" : "colorless gas exhibiting a lilac/violet glow when placed in an electric field",
+  "atomicMass" : {
+    "value" : 39.9481,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 32,
+  "group" : 18,
+  "name" : "Argon",
+  "number" : 18,
+  "phase" : "gas",
+  "possibleBounds" : 0,
+  "properties" : [ "natural", "stable" ],
+  "set" : "NOBLEGAS",
+  "shell" : [ 2, 8, 8 ],
+  "symbol" : "Ar",
+  "valenceElectrons" : 8
+}

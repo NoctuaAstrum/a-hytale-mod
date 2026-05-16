@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 15000.0
+    },
+    "CRUST" : {
+      "value" : 140000.0
+    },
+    "STREAM" : {
+      "value" : 1.0
+    },
+    "HUMAN" : {
+      "value" : 30.0
+    },
+    "SUN" : {
+      "value" : 20000.0
+    },
+    "METEORITE" : {
+      "value" : 3100000.0
+    },
+    "WATER" : {
+      "value" : 0.6
+    }
+  },
+  "appearance" : "silvery metallic",
+  "atomicMass" : {
+    "value" : 51.99616,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 20,
+  "group" : 6,
+  "name" : "Chromium",
+  "number" : 24,
+  "oxidation_state" : "6, 3, 2, 1",
+  "phase" : "solid",
+  "possibleBounds" : 6,
+  "properties" : [ "natural", "native", "vital", "stable", "heavy", "refractory" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 13, 1 ],
+  "standard_potential" : {
+    "value" : -0.744,
+    "additionalInfo" : "Cr[3+] + 3e[-] → Cr"
+  },
+  "symbol" : "Cr",
+  "valenceElectrons" : -4
+}

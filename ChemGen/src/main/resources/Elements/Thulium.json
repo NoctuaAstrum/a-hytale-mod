@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.1
+    },
+    "CRUST" : {
+      "value" : 450.0
+    },
+    "STREAM" : {
+      "value" : 0.009
+    },
+    "SUN" : {
+      "value" : 0.2
+    },
+    "METEORITE" : {
+      "value" : 30.0
+    },
+    "WATER" : {
+      "value" : 2.0E-4
+    }
+  },
+  "appearance" : "silvery gray",
+  "atomicMass" : {
+    "value" : 168.93422,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 15,
+  "group" : 19,
+  "name" : "Thulium",
+  "number" : 69,
+  "oxidation_state" : "2, '''3''', 4",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "mononuclidic", "stable", "heavy", "rare" ],
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 31, 8, 2 ],
+  "standard_potential" : {
+    "value" : -2.32,
+    "additionalInfo" : "Tm[3+] + 3e[-] → Tm"
+  },
+  "symbol" : "Tm",
+  "valenceElectrons" : -1
+}

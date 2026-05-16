@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 20000.0
+    },
+    "CRUST" : {
+      "value" : 2.3E7
+    },
+    "STREAM" : {
+      "value" : 8000.0
+    },
+    "HUMAN" : {
+      "value" : 1400000.0
+    },
+    "SUN" : {
+      "value" : 40000.0
+    },
+    "METEORITE" : {
+      "value" : 5600000.0
+    },
+    "WATER" : {
+      "value" : 1.105E7
+    }
+  },
+  "appearance" : "silvery white metallic",
+  "atomicMass" : {
+    "value" : 22.989769,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "S",
+  "column" : 1,
+  "group" : 1,
+  "name" : "Sodium",
+  "number" : 11,
+  "oxidation_state" : "1",
+  "phase" : "solid",
+  "possibleBounds" : 1,
+  "properties" : [ "natural", "vital", "mononuclidic", "stable", "light" ],
+  "set" : "ALKALIMETAL",
+  "shell" : [ 2, 8, 1 ],
+  "standard_potential" : {
+    "value" : -2.713,
+    "additionalInfo" : "Na[+] + e[-] → Na"
+  },
+  "symbol" : "Na",
+  "valenceElectrons" : 1
+}

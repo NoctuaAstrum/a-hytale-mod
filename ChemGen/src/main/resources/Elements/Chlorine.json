@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 1000.0
+    },
+    "CRUST" : {
+      "value" : 170000.0
+    },
+    "STREAM" : {
+      "value" : 8000.0
+    },
+    "HUMAN" : {
+      "value" : 1200000.0
+    },
+    "SUN" : {
+      "value" : 8000.0
+    },
+    "METEORITE" : {
+      "value" : 380000.0
+    },
+    "WATER" : {
+      "value" : 1.987E7
+    }
+  },
+  "appearance" : "pale yellow-green gas",
+  "atomicMass" : {
+    "value" : 35.4535,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 31,
+  "group" : 17,
+  "name" : "Chlorine",
+  "number" : 17,
+  "oxidation_state" : "'''±1''', 3, 4, 5, 6, 7",
+  "phase" : "gas",
+  "possibleBounds" : 5,
+  "properties" : [ "natural", "vital", "stable" ],
+  "set" : "HALOGEN",
+  "shell" : [ 2, 8, 7 ],
+  "standard_potential" : {
+    "value" : 1.36,
+    "additionalInfo" : "Cl + e[-] → Cl[-]"
+  },
+  "symbol" : "Cl",
+  "valenceElectrons" : 7
+}

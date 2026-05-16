@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 10.0
+    },
+    "CRUST" : {
+      "value" : 60000.0
+    },
+    "STREAM" : {
+      "value" : 1.0
+    },
+    "HUMAN" : {
+      "value" : 4600.0
+    },
+    "SUN" : {
+      "value" : 30.0
+    },
+    "METEORITE" : {
+      "value" : 3300.0
+    },
+    "WATER" : {
+      "value" : 120.0
+    }
+  },
+  "appearance" : "grey white",
+  "atomicMass" : {
+    "value" : 85.46783,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "S",
+  "column" : 1,
+  "group" : 1,
+  "name" : "Rubidium",
+  "number" : 37,
+  "oxidation_state" : "-1, '''+1'''",
+  "phase" : "solid",
+  "possibleBounds" : 1,
+  "properties" : [ "natural", "stable", "light" ],
+  "set" : "ALKALIMETAL",
+  "shell" : [ 2, 8, 18, 8, 1 ],
+  "standard_potential" : {
+    "value" : -2.924,
+    "additionalInfo" : "Rb[+] + e[-] → Rb"
+  },
+  "symbol" : "Rb",
+  "valenceElectrons" : 1
+}

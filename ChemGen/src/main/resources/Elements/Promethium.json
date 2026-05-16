@@ -1,0 +1,30 @@
+{
+  "abundance" : {
+    "SUN" : {
+      "value" : 0.005
+    }
+  },
+  "appearance" : "metallic",
+  "atomicMass" : {
+    "value" : 146.9151,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 7,
+  "group" : 19,
+  "name" : "Promethium",
+  "number" : 61,
+  "oxidation_state" : "3",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "heavy", "rare", "radioactive", "artificial" ],
+  "radioactivity" : "significantly-radioactive",
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 23, 8, 2 ],
+  "standard_potential" : {
+    "value" : -2.423,
+    "additionalInfo" : "Pm[3+] + 3e[-] → Pm"
+  },
+  "symbol" : "Pm",
+  "valenceElectrons" : -1
+}

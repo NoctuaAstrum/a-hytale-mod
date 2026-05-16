@@ -1,0 +1,43 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 1000000.0
+    },
+    "CRUST" : {
+      "value" : 20000.0
+    },
+    "STREAM" : {
+      "value" : 240.0
+    },
+    "HUMAN" : {
+      "value" : 2.6E7
+    },
+    "SUN" : {
+      "value" : 1000000.0
+    },
+    "METEORITE" : {
+      "value" : 1400000.0
+    },
+    "WATER" : {
+      "value" : 500.0
+    }
+  },
+  "appearance" : "colorless gas, liquid or solid",
+  "atomicMass" : {
+    "value" : 14.006714,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 29,
+  "group" : 15,
+  "name" : "Nitrogen",
+  "number" : 7,
+  "oxidation_state" : "-3, -2, -1, 0, 1, 2, '''3''', 4, 5",
+  "phase" : "gas",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "vital", "stable" ],
+  "set" : "NONMETAL",
+  "shell" : [ 2, 5 ],
+  "symbol" : "N",
+  "valenceElectrons" : 5
+}

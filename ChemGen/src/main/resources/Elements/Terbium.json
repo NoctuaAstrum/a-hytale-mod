@@ -1,0 +1,40 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.5
+    },
+    "CRUST" : {
+      "value" : 940.0
+    },
+    "STREAM" : {
+      "value" : 0.008
+    },
+    "SUN" : {
+      "value" : 0.1
+    },
+    "METEORITE" : {
+      "value" : 40.0
+    },
+    "WATER" : {
+      "value" : 1.4E-4
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 158.92535,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 11,
+  "group" : 19,
+  "name" : "Terbium",
+  "number" : 65,
+  "oxidation_state" : "4, '''3'''",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "mononuclidic", "stable", "heavy", "rare" ],
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 27, 8, 2 ],
+  "symbol" : "Tb",
+  "valenceElectrons" : -1
+}

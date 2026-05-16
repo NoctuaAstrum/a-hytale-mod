@@ -1,0 +1,41 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.2
+    },
+    "CRUST" : {
+      "value" : 2.6
+    },
+    "SUN" : {
+      "value" : 0.1
+    },
+    "METEORITE" : {
+      "value" : 50.0
+    },
+    "WATER" : {
+      "value" : 0.001
+    }
+  },
+  "appearance" : "silvery-grayish",
+  "atomicMass" : {
+    "value" : 186.2071,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 21,
+  "group" : 7,
+  "name" : "Rhenium",
+  "number" : 75,
+  "oxidation_state" : "-3 … 7",
+  "phase" : "solid",
+  "possibleBounds" : 7,
+  "properties" : [ "natural", "stable", "heavy" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 32, 13, 2 ],
+  "standard_potential" : {
+    "value" : -0.276,
+    "additionalInfo" : "ReO{2} + 4H[+] + 4e[-] → Re + 2H{2}O"
+  },
+  "symbol" : "Re",
+  "valenceElectrons" : -3
+}

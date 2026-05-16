@@ -1,0 +1,40 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 5.0
+    },
+    "CRUST" : {
+      "value" : 6000.0
+    },
+    "STREAM" : {
+      "value" : 0.03
+    },
+    "SUN" : {
+      "value" : 1.0
+    },
+    "METEORITE" : {
+      "value" : 170.0
+    },
+    "WATER" : {
+      "value" : 4.5E-4
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 150.362,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 8,
+  "group" : 19,
+  "name" : "Samarium",
+  "number" : 62,
+  "oxidation_state" : "2, '''3'''",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "stable", "heavy", "rare" ],
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 24, 8, 2 ],
+  "symbol" : "Sm",
+  "valenceElectrons" : -1
+}

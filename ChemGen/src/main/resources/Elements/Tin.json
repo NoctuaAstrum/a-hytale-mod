@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 4.0
+    },
+    "CRUST" : {
+      "value" : 2200.0
+    },
+    "STREAM" : {
+      "value" : 0.06
+    },
+    "HUMAN" : {
+      "value" : 200.0
+    },
+    "SUN" : {
+      "value" : 9.0
+    },
+    "METEORITE" : {
+      "value" : 1200.0
+    },
+    "WATER" : {
+      "value" : 0.01
+    }
+  },
+  "appearance" : "silvery-white (beta); gray (alpha)",
+  "atomicMass" : {
+    "value" : 118.7107,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 28,
+  "group" : 14,
+  "name" : "Tin",
+  "number" : 50,
+  "oxidation_state" : "(-4), '''4''', 2",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "natural", "native", "stable", "semiconductor", "heavy", "antiquity" ],
+  "set" : "METAL",
+  "shell" : [ 2, 8, 18, 18, 4 ],
+  "standard_potential" : {
+    "value" : -0.137,
+    "additionalInfo" : "Sn[2+] + 2e[-] → Sn"
+  },
+  "symbol" : "Sn",
+  "valenceElectrons" : 4
+}

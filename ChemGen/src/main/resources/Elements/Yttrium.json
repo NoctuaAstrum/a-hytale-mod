@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 7.0
+    },
+    "CRUST" : {
+      "value" : 29000.0
+    },
+    "STREAM" : {
+      "value" : 50.0
+    },
+    "SUN" : {
+      "value" : 10.0
+    },
+    "METEORITE" : {
+      "value" : 1900.0
+    },
+    "WATER" : {
+      "value" : 0.013
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 88.905846,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 3,
+  "group" : 3,
+  "name" : "Yttrium",
+  "number" : 39,
+  "oxidation_state" : "+3",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "mononuclidic", "stable", "light", "rare" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 9, 2 ],
+  "standard_potential" : {
+    "value" : -2.37,
+    "additionalInfo" : "Y[3+] + 3e[-] → Y"
+  },
+  "symbol" : "Y",
+  "valenceElectrons" : -7
+}

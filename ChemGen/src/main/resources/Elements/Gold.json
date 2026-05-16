@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.6
+    },
+    "CRUST" : {
+      "value" : 3.1
+    },
+    "STREAM" : {
+      "value" : 0.002
+    },
+    "HUMAN" : {
+      "value" : 100.0
+    },
+    "SUN" : {
+      "value" : 1.0
+    },
+    "METEORITE" : {
+      "value" : 170.0
+    },
+    "WATER" : {
+      "value" : 0.05
+    }
+  },
+  "appearance" : "metallic yellow",
+  "atomicMass" : {
+    "value" : 196.96657,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 25,
+  "group" : 11,
+  "name" : "Gold",
+  "number" : 79,
+  "oxidation_state" : "-1, 0, +1, +2, '''+3''', +5",
+  "phase" : "solid",
+  "possibleBounds" : 5,
+  "properties" : [ "natural", "native", "mononuclidic", "stable", "noble", "heavy", "antiquity" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 32, 18, 1 ],
+  "standard_potential" : {
+    "value" : 1.52,
+    "additionalInfo" : "Au[3+] + 3e[-] → Au"
+  },
+  "symbol" : "Au",
+  "valenceElectrons" : 1
+}

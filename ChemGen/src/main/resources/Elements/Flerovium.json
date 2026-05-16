@@ -1,0 +1,18 @@
+{
+  "atomicMass" : {
+    "value" : 289.0,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 28,
+  "group" : 14,
+  "name" : "Flerovium",
+  "number" : 114,
+  "possibleBounds" : -1,
+  "properties" : [ "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "extremely-radioactive",
+  "set" : "UNKNOWN",
+  "shell" : [ 2, 8, 18, 32, 32, 18, 4 ],
+  "symbol" : "Fl",
+  "valenceElectrons" : 4
+}

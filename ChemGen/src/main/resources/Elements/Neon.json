@@ -1,0 +1,33 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 1300000.0
+    },
+    "CRUST" : {
+      "value" : 3.0
+    },
+    "SUN" : {
+      "value" : 1000000.0
+    },
+    "WATER" : {
+      "value" : 0.12
+    }
+  },
+  "appearance" : "colorless gas exhibiting an orange-red glow when placed in an electric field",
+  "atomicMass" : {
+    "value" : 20.17976,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 32,
+  "group" : 18,
+  "name" : "Neon",
+  "number" : 10,
+  "phase" : "gas",
+  "possibleBounds" : 0,
+  "properties" : [ "natural", "stable" ],
+  "set" : "NOBLEGAS",
+  "shell" : [ 2, 8 ],
+  "symbol" : "Ne",
+  "valenceElectrons" : 8
+}

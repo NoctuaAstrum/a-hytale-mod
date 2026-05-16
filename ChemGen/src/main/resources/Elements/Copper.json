@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 60.0
+    },
+    "CRUST" : {
+      "value" : 68000.0
+    },
+    "STREAM" : {
+      "value" : 6.0
+    },
+    "HUMAN" : {
+      "value" : 1000.0
+    },
+    "SUN" : {
+      "value" : 700.0
+    },
+    "METEORITE" : {
+      "value" : 110000.0
+    },
+    "WATER" : {
+      "value" : 3.0
+    }
+  },
+  "appearance" : "red-orange metallic luster",
+  "atomicMass" : {
+    "value" : 63.5463,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 25,
+  "group" : 11,
+  "name" : "Copper",
+  "number" : 29,
+  "oxidation_state" : "1, '''2''', 3, 4",
+  "phase" : "solid",
+  "possibleBounds" : 2,
+  "properties" : [ "natural", "native", "vital", "stable", "heavy", "antiquity" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 1 ],
+  "standard_potential" : {
+    "value" : 0.34,
+    "additionalInfo" : "Cu[2+] + 2e[-] → Cu"
+  },
+  "symbol" : "Cu",
+  "valenceElectrons" : 1
+}

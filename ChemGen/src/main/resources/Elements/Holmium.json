@@ -1,0 +1,41 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.5
+    },
+    "CRUST" : {
+      "value" : 1200.0
+    },
+    "STREAM" : {
+      "value" : 0.01
+    },
+    "METEORITE" : {
+      "value" : 60.0
+    },
+    "WATER" : {
+      "value" : 2.2E-4
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 164.93033,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 13,
+  "group" : 19,
+  "name" : "Holmium",
+  "number" : 67,
+  "oxidation_state" : "3",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "mononuclidic", "stable", "heavy", "rare" ],
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 29, 8, 2 ],
+  "standard_potential" : {
+    "value" : -2.33,
+    "additionalInfo" : "Ho[3+] + 3e[-] → Ho"
+  },
+  "symbol" : "Ho",
+  "valenceElectrons" : -1
+}

@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.6
+    },
+    "CRUST" : {
+      "value" : 80.0
+    },
+    "STREAM" : {
+      "value" : 0.3
+    },
+    "SUN" : {
+      "value" : 1.0
+    },
+    "METEORITE" : {
+      "value" : 140.0
+    },
+    "WATER" : {
+      "value" : 0.1
+    }
+  },
+  "appearance" : "lustrous white metal",
+  "atomicMass" : {
+    "value" : 107.86822,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 25,
+  "group" : 11,
+  "name" : "Silver",
+  "number" : 47,
+  "oxidation_state" : "'''+1''', +2, +3",
+  "phase" : "solid",
+  "possibleBounds" : 1,
+  "properties" : [ "natural", "native", "stable", "noble", "heavy", "antiquity" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 18, 1 ],
+  "standard_potential" : {
+    "value" : 0.7991,
+    "additionalInfo" : "Ag[+] + e[-] → Ag"
+  },
+  "symbol" : "Ag",
+  "valenceElectrons" : 1
+}

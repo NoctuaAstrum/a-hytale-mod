@@ -1,0 +1,19 @@
+{
+  "appearance" : "semimetallic (predicted)",
+  "atomicMass" : {
+    "value" : 292.0,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 31,
+  "group" : 17,
+  "name" : "Tennessine",
+  "number" : 117,
+  "possibleBounds" : -1,
+  "properties" : [ "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "extremely-radioactive",
+  "set" : "UNKNOWN",
+  "shell" : [ 2, 8, 18, 32, 32, 18, 7 ],
+  "symbol" : "Ts",
+  "valenceElectrons" : 7
+}

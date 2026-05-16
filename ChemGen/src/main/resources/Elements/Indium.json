@@ -1,0 +1,41 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.3
+    },
+    "CRUST" : {
+      "value" : 160.0
+    },
+    "SUN" : {
+      "value" : 4.0
+    },
+    "METEORITE" : {
+      "value" : 45.0
+    },
+    "WATER" : {
+      "value" : 1.0E-4
+    }
+  },
+  "appearance" : "silvery lustrous gray",
+  "atomicMass" : {
+    "value" : 114.8181,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 27,
+  "group" : 13,
+  "name" : "Indium",
+  "number" : 49,
+  "oxidation_state" : "'''3''', 1",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "native", "stable", "heavy" ],
+  "set" : "METAL",
+  "shell" : [ 2, 8, 18, 18, 3 ],
+  "standard_potential" : {
+    "value" : -0.343,
+    "additionalInfo" : "In[3+] + 3e[-] → In"
+  },
+  "symbol" : "In",
+  "valenceElectrons" : 3
+}

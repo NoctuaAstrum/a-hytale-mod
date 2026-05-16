@@ -1,0 +1,20 @@
+{
+  "atomicMass" : {
+    "value" : 258.0,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 15,
+  "group" : 20,
+  "name" : "Mendelevium",
+  "number" : 101,
+  "oxidation_state" : "+2 +3",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "significantly-radioactive",
+  "set" : "ACTINOIDE",
+  "shell" : [ 2, 8, 18, 32, 31, 8, 2 ],
+  "symbol" : "Md",
+  "valenceElectrons" : -1
+}

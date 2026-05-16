@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 10.0
+    },
+    "CRUST" : {
+      "value" : 10000.0
+    },
+    "STREAM" : {
+      "value" : 3.0
+    },
+    "HUMAN" : {
+      "value" : 1700.0
+    },
+    "SUN" : {
+      "value" : 10.0
+    },
+    "METEORITE" : {
+      "value" : 1400.0
+    },
+    "WATER" : {
+      "value" : 0.03
+    }
+  },
+  "appearance" : "metallic gray",
+  "atomicMass" : {
+    "value" : 207.21,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 28,
+  "group" : 14,
+  "name" : "Lead",
+  "number" : 82,
+  "oxidation_state" : "'''2''', 4",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "natural", "native", "stable", "heavy", "antiquity" ],
+  "set" : "METAL",
+  "shell" : [ 2, 8, 18, 32, 18, 4 ],
+  "standard_potential" : {
+    "value" : -0.1251,
+    "additionalInfo" : "Pb[2+] + 2e[-] → Pb"
+  },
+  "symbol" : "Pb",
+  "valenceElectrons" : 4
+}

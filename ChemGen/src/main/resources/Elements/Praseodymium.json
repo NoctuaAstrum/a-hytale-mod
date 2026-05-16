@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 2.0
+    },
+    "CRUST" : {
+      "value" : 8700.0
+    },
+    "STREAM" : {
+      "value" : 0.03
+    },
+    "SUN" : {
+      "value" : 1.0
+    },
+    "METEORITE" : {
+      "value" : 100.0
+    },
+    "WATER" : {
+      "value" : 6.0E-4
+    }
+  },
+  "appearance" : "grayish white",
+  "atomicMass" : {
+    "value" : 140.90767,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 5,
+  "group" : 19,
+  "name" : "Praseodymium",
+  "number" : 59,
+  "oxidation_state" : "'''3''', 4, 2",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "natural", "mononuclidic", "stable", "heavy", "rare" ],
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 21, 8, 2 ],
+  "standard_potential" : {
+    "value" : -2.35,
+    "additionalInfo" : "Pr[3+] + 3e[-] → Pr"
+  },
+  "symbol" : "Pr",
+  "valenceElectrons" : -1
+}

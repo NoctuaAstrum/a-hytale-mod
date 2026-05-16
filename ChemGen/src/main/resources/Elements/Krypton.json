@@ -1,0 +1,30 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 40.0
+    },
+    "CRUST" : {
+      "value" : 0.15
+    },
+    "WATER" : {
+      "value" : 0.21
+    }
+  },
+  "appearance" : "colorless gas, exhibiting a whitish glow in an electric field",
+  "atomicMass" : {
+    "value" : 83.7982,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 32,
+  "group" : 18,
+  "name" : "Krypton",
+  "number" : 36,
+  "phase" : "gas",
+  "possibleBounds" : 2,
+  "properties" : [ "natural", "stable" ],
+  "set" : "NOBLEGAS",
+  "shell" : [ 2, 8, 18, 8 ],
+  "symbol" : "Kr",
+  "valenceElectrons" : 8
+}

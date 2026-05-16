@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 5.0
+    },
+    "CRUST" : {
+      "value" : 1100.0
+    },
+    "STREAM" : {
+      "value" : 0.8
+    },
+    "HUMAN" : {
+      "value" : 100.0
+    },
+    "SUN" : {
+      "value" : 9.0
+    },
+    "METEORITE" : {
+      "value" : 1200.0
+    },
+    "WATER" : {
+      "value" : 10.0
+    }
+  },
+  "appearance" : "gray metallic",
+  "atomicMass" : {
+    "value" : 95.951,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 20,
+  "group" : 6,
+  "name" : "Molybdenum",
+  "number" : 42,
+  "oxidation_state" : "2, 3, 4, 5, '''6'''",
+  "phase" : "solid",
+  "possibleBounds" : 6,
+  "properties" : [ "natural", "native", "vital", "stable", "heavy", "refractory" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 13, 1 ],
+  "standard_potential" : {
+    "value" : -0.152,
+    "additionalInfo" : "MoO{2} + 4e[-] + 4H[+] → Mo + 2H{2}O"
+  },
+  "symbol" : "Mo",
+  "valenceElectrons" : -4
+}

@@ -1,0 +1,18 @@
+{
+  "atomicMass" : {
+    "value" : 288.0,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 29,
+  "group" : 15,
+  "name" : "Moscovium",
+  "number" : 115,
+  "possibleBounds" : -1,
+  "properties" : [ "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "extremely-radioactive",
+  "set" : "UNKNOWN",
+  "shell" : [ 2, 8, 18, 32, 32, 18, 5 ],
+  "symbol" : "Mc",
+  "valenceElectrons" : 5
+}

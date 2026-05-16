@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 2.0
+    },
+    "CRUST" : {
+      "value" : 2800.0
+    },
+    "STREAM" : {
+      "value" : 0.05
+    },
+    "SUN" : {
+      "value" : 1.0
+    },
+    "METEORITE" : {
+      "value" : 180.0
+    },
+    "WATER" : {
+      "value" : 8.0E-4
+    }
+  },
+  "appearance" : "silvery white; with a pale yellow tint",
+  "atomicMass" : {
+    "value" : 173.0451,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 16,
+  "group" : 19,
+  "name" : "Ytterbium",
+  "number" : 70,
+  "oxidation_state" : "2, '''3'''",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "stable", "heavy", "rare" ],
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 32, 8, 2 ],
+  "standard_potential" : {
+    "value" : -2.22,
+    "additionalInfo" : "Yb[3+] + 3e[-] → Yb"
+  },
+  "symbol" : "Yb",
+  "valenceElectrons" : -1
+}

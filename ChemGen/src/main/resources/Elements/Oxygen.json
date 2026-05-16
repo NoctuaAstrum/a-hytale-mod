@@ -1,0 +1,46 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 1.0E7
+    },
+    "CRUST" : {
+      "value" : 4.6E8
+    },
+    "STREAM" : {
+      "value" : 8.8E8
+    },
+    "HUMAN" : {
+      "value" : 6.1E8
+    },
+    "SUN" : {
+      "value" : 9000000.0
+    },
+    "METEORITE" : {
+      "value" : 4.1E8
+    },
+    "WATER" : {
+      "value" : 8.57E8
+    }
+  },
+  "appearance" : "colorless (gas); pale blue (liquid and solid)",
+  "atomicMass" : {
+    "value" : 15.99915,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 30,
+  "group" : 16,
+  "name" : "Oxygen",
+  "number" : 8,
+  "oxidation_state" : "'''-2''', -1, 0, +1, +2",
+  "phase" : "gas",
+  "possibleBounds" : 2,
+  "properties" : [ "natural", "vital", "stable" ],
+  "set" : "NONMETAL",
+  "shell" : [ 2, 6 ],
+  "standard_potential" : {
+    "value" : 1.23
+  },
+  "symbol" : "O",
+  "valenceElectrons" : 6
+}

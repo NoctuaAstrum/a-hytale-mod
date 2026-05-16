@@ -1,0 +1,25 @@
+{
+  "appearance" : "silvery metallic, glows purple in the dark",
+  "atomicMass" : {
+    "value" : 247.0703,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 10,
+  "group" : 20,
+  "name" : "Curium",
+  "number" : 96,
+  "oxidation_state" : "(+2), '''+3''', +4",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "heavy", "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "slightly-radioactive",
+  "set" : "ACTINOIDE",
+  "shell" : [ 2, 8, 18, 32, 25, 9, 2 ],
+  "standard_potential" : {
+    "value" : -2.06,
+    "additionalInfo" : "Cm[3+] + 3e[-] → Cm"
+  },
+  "symbol" : "Cm",
+  "valenceElectrons" : -1
+}

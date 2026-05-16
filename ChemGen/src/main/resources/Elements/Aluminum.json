@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 50000.0
+    },
+    "CRUST" : {
+      "value" : 8.2E7
+    },
+    "STREAM" : {
+      "value" : 400.0
+    },
+    "HUMAN" : {
+      "value" : 900.0
+    },
+    "SUN" : {
+      "value" : 60000.0
+    },
+    "METEORITE" : {
+      "value" : 9300000.0
+    },
+    "WATER" : {
+      "value" : 5.0
+    }
+  },
+  "appearance" : "silvery gray metallic",
+  "atomicMass" : {
+    "value" : 26.981539,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 27,
+  "group" : 13,
+  "name" : "Aluminum",
+  "number" : 13,
+  "oxidation_state" : "1, 2, '''3'''",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "mononuclidic", "stable", "light" ],
+  "set" : "METAL",
+  "shell" : [ 2, 8, 3 ],
+  "standard_potential" : {
+    "value" : -1.676,
+    "additionalInfo" : "Al[3+] + 3e[-] → Al"
+  },
+  "symbol" : "Al",
+  "valenceElectrons" : 3
+}

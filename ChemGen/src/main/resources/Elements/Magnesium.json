@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 600000.0
+    },
+    "CRUST" : {
+      "value" : 2.9E7
+    },
+    "STREAM" : {
+      "value" : 4100.0
+    },
+    "HUMAN" : {
+      "value" : 270000.0
+    },
+    "SUN" : {
+      "value" : 700000.0
+    },
+    "METEORITE" : {
+      "value" : 1.2E8
+    },
+    "WATER" : {
+      "value" : 1326000.0
+    }
+  },
+  "appearance" : "shiny grey solid",
+  "atomicMass" : {
+    "value" : 24.30524,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "S",
+  "column" : 2,
+  "group" : 2,
+  "name" : "Magnesium",
+  "number" : 12,
+  "oxidation_state" : "1, '''2'''",
+  "phase" : "solid",
+  "possibleBounds" : 2,
+  "properties" : [ "natural", "native", "vital", "stable", "light" ],
+  "set" : "ALKALINEEEARTHMETAL",
+  "shell" : [ 2, 8, 2 ],
+  "standard_potential" : {
+    "value" : -2.372,
+    "additionalInfo" : "Mg[2+] + 2e[-] → Mg"
+  },
+  "symbol" : "Mg",
+  "valenceElectrons" : 2
+}

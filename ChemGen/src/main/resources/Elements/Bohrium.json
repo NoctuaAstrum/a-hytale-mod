@@ -1,0 +1,18 @@
+{
+  "atomicMass" : {
+    "value" : 262.1229,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 21,
+  "group" : 7,
+  "name" : "Bohrium",
+  "number" : 107,
+  "possibleBounds" : 7,
+  "properties" : [ "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "highly-radioactive",
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 32, 32, 13, 2 ],
+  "symbol" : "Bh",
+  "valenceElectrons" : -3
+}

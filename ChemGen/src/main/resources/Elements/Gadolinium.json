@@ -1,0 +1,40 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 2.0
+    },
+    "CRUST" : {
+      "value" : 5200.0
+    },
+    "STREAM" : {
+      "value" : 0.04
+    },
+    "SUN" : {
+      "value" : 2.0
+    },
+    "METEORITE" : {
+      "value" : 230.0
+    },
+    "WATER" : {
+      "value" : 7.0E-4
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 157.253,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 10,
+  "group" : 19,
+  "name" : "Gadolinium",
+  "number" : 64,
+  "oxidation_state" : "2, '''3'''",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "stable", "heavy", "rare" ],
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 25, 9, 2 ],
+  "symbol" : "Gd",
+  "valenceElectrons" : -1
+}

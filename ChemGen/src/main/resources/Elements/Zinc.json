@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 300.0
+    },
+    "CRUST" : {
+      "value" : 79000.0
+    },
+    "STREAM" : {
+      "value" : 10.0
+    },
+    "HUMAN" : {
+      "value" : 33000.0
+    },
+    "SUN" : {
+      "value" : 2000.0
+    },
+    "METEORITE" : {
+      "value" : 180000.0
+    },
+    "WATER" : {
+      "value" : 5.0
+    }
+  },
+  "appearance" : "silver-gray",
+  "atomicMass" : {
+    "value" : 65.382,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 26,
+  "group" : 12,
+  "name" : "Zinc",
+  "number" : 30,
+  "oxidation_state" : "2",
+  "phase" : "solid",
+  "possibleBounds" : 2,
+  "properties" : [ "natural", "native", "vital", "stable", "heavy", "antiquity" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 2 ],
+  "standard_potential" : {
+    "value" : -0.7926,
+    "additionalInfo" : "Zn[2+] + 2e[-] → Zn"
+  },
+  "symbol" : "Zn",
+  "valenceElectrons" : 2
+}

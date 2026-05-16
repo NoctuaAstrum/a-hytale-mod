@@ -1,0 +1,41 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.4
+    },
+    "CRUST" : {
+      "value" : 6000.0
+    },
+    "STREAM" : {
+      "value" : 0.1
+    },
+    "SUN" : {
+      "value" : 0.3
+    },
+    "METEORITE" : {
+      "value" : 40.0
+    },
+    "WATER" : {
+      "value" : 4.0E-5
+    }
+  },
+  "appearance" : "silvery",
+  "atomicMass" : {
+    "value" : 232.03773,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 4,
+  "group" : 20,
+  "name" : "Thorium",
+  "number" : 90,
+  "oxidation_state" : "4, 3, 2",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "natural", "mononuclidic", "heavy", "radioactive", "artificial" ],
+  "radioactivity" : "slightly-radioactive",
+  "set" : "ACTINOIDE",
+  "shell" : [ 2, 8, 18, 32, 18, 10, 2 ],
+  "symbol" : "Th",
+  "valenceElectrons" : -1
+}

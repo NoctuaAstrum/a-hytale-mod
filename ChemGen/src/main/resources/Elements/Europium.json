@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.5
+    },
+    "CRUST" : {
+      "value" : 1800.0
+    },
+    "STREAM" : {
+      "value" : 0.007
+    },
+    "SUN" : {
+      "value" : 0.5
+    },
+    "METEORITE" : {
+      "value" : 60.0
+    },
+    "WATER" : {
+      "value" : 1.3E-4
+    }
+  },
+  "appearance" : "silvery white, with a pale yellow tint; but rarely seen without oxide discoloration",
+  "atomicMass" : {
+    "value" : 151.9641,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 9,
+  "group" : 19,
+  "name" : "Europium",
+  "number" : 63,
+  "oxidation_state" : "2, '''3'''",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "stable", "heavy", "rare" ],
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 25, 8, 2 ],
+  "standard_potential" : {
+    "value" : -1.99,
+    "additionalInfo" : "Eu[3+] + 3e[-] → Eu"
+  },
+  "symbol" : "Eu",
+  "valenceElectrons" : -1
+}

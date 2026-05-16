@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 10.0
+    },
+    "CRUST" : {
+      "value" : 19000.0
+    },
+    "STREAM" : {
+      "value" : 0.15
+    },
+    "SUN" : {
+      "value" : 40.0
+    },
+    "METEORITE" : {
+      "value" : 7800.0
+    },
+    "WATER" : {
+      "value" : 0.03
+    }
+  },
+  "appearance" : "silvery blue",
+  "atomicMass" : {
+    "value" : 69.7231,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 27,
+  "group" : 13,
+  "name" : "Gallium",
+  "number" : 31,
+  "oxidation_state" : "3",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "stable", "heavy" ],
+  "set" : "METAL",
+  "shell" : [ 2, 8, 18, 3 ],
+  "standard_potential" : {
+    "value" : -0.53,
+    "additionalInfo" : "Ga[3+] + 3e[-] → Ga"
+  },
+  "symbol" : "Ga",
+  "valenceElectrons" : 3
+}

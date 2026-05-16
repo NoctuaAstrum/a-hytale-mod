@@ -1,0 +1,18 @@
+{
+  "atomicMass" : {
+    "value" : 277.0,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 26,
+  "group" : 12,
+  "name" : "Copernicium",
+  "number" : 112,
+  "possibleBounds" : -1,
+  "properties" : [ "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "extremely-radioactive",
+  "set" : "UNKNOWN",
+  "shell" : [ 2, 8, 18, 32, 32, 18, 2 ],
+  "symbol" : "Cn",
+  "valenceElectrons" : 2
+}

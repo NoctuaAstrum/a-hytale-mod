@@ -1,0 +1,18 @@
+{
+  "atomicMass" : {
+    "value" : 262.1138,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 19,
+  "group" : 5,
+  "name" : "Dubnium",
+  "number" : 105,
+  "possibleBounds" : 5,
+  "properties" : [ "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "significantly-radioactive",
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 32, 32, 11, 2 ],
+  "symbol" : "Db",
+  "valenceElectrons" : -5
+}

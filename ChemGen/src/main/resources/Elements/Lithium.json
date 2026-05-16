@@ -1,0 +1,46 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 6.0
+    },
+    "CRUST" : {
+      "value" : 17000.0
+    },
+    "STREAM" : {
+      "value" : 3000.0
+    },
+    "HUMAN" : {
+      "value" : 30.0
+    },
+    "SUN" : {
+      "value" : 0.06
+    },
+    "METEORITE" : {
+      "value" : 1700.0
+    },
+    "WATER" : {
+      "value" : 180.0
+    }
+  },
+  "appearance" : "silvery-white",
+  "atomicMass" : {
+    "value" : 6.946,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "S",
+  "column" : 1,
+  "group" : 1,
+  "name" : "Lithium",
+  "number" : 3,
+  "oxidation_state" : "1",
+  "phase" : "solid",
+  "possibleBounds" : 1,
+  "properties" : [ "natural", "stable", "light" ],
+  "set" : "ALKALIMETAL",
+  "shell" : [ 2, 1 ],
+  "standard_potential" : {
+    "value" : -3.04
+  },
+  "symbol" : "Li",
+  "valenceElectrons" : 1
+}

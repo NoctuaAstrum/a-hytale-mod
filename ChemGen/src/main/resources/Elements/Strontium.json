@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 40.0
+    },
+    "CRUST" : {
+      "value" : 360000.0
+    },
+    "STREAM" : {
+      "value" : 60.0
+    },
+    "HUMAN" : {
+      "value" : 4600.0
+    },
+    "SUN" : {
+      "value" : 50.0
+    },
+    "METEORITE" : {
+      "value" : 8900.0
+    },
+    "WATER" : {
+      "value" : 8100.0
+    }
+  },
+  "appearance" : "silvery white metallic; with a pale yellow tint",
+  "atomicMass" : {
+    "value" : 87.621,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "S",
+  "column" : 2,
+  "group" : 2,
+  "name" : "Strontium",
+  "number" : 38,
+  "oxidation_state" : "+2",
+  "phase" : "solid",
+  "possibleBounds" : 2,
+  "properties" : [ "natural", "stable", "light" ],
+  "set" : "ALKALINEEEARTHMETAL",
+  "shell" : [ 2, 8, 18, 8, 2 ],
+  "standard_potential" : {
+    "value" : -2.89,
+    "additionalInfo" : "Sr[2+] + 2e[-] → Sr"
+  },
+  "symbol" : "Sr",
+  "valenceElectrons" : 2
+}

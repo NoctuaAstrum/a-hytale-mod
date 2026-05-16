@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 2.0
+    },
+    "CRUST" : {
+      "value" : 34000.0
+    },
+    "STREAM" : {
+      "value" : 0.2
+    },
+    "SUN" : {
+      "value" : 2.0
+    },
+    "METEORITE" : {
+      "value" : 290.0
+    },
+    "WATER" : {
+      "value" : 0.0034
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 138.90547,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 3,
+  "group" : 19,
+  "name" : "Lanthanum",
+  "number" : 57,
+  "oxidation_state" : "3",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "stable", "heavy", "rare" ],
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 18, 9, 2 ],
+  "standard_potential" : {
+    "value" : -2.38,
+    "additionalInfo" : "La[3+] + 3e[-] → La"
+  },
+  "symbol" : "La",
+  "valenceElectrons" : -1
+}

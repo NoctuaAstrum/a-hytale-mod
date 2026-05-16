@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 2.0
+    },
+    "CRUST" : {
+      "value" : 6200.0
+    },
+    "STREAM" : {
+      "value" : 0.05
+    },
+    "SUN" : {
+      "value" : 2.0
+    },
+    "METEORITE" : {
+      "value" : 280.0
+    },
+    "WATER" : {
+      "value" : 9.1E-4
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 162.5001,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 12,
+  "group" : 19,
+  "name" : "Dysprosium",
+  "number" : 66,
+  "oxidation_state" : "3",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "stable", "heavy", "rare" ],
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 28, 8, 2 ],
+  "standard_potential" : {
+    "value" : -2.29,
+    "additionalInfo" : "Dy[3+] + 3e[-] → Dy"
+  },
+  "symbol" : "Dy",
+  "valenceElectrons" : -1
+}

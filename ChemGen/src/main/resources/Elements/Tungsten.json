@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.5
+    },
+    "CRUST" : {
+      "value" : 1100.0
+    },
+    "STREAM" : {
+      "value" : 0.03
+    },
+    "SUN" : {
+      "value" : 4.0
+    },
+    "METEORITE" : {
+      "value" : 120.0
+    },
+    "WATER" : {
+      "value" : 0.12
+    }
+  },
+  "appearance" : "grayish white, lustrous",
+  "atomicMass" : {
+    "value" : 183.841,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 20,
+  "group" : 6,
+  "name" : "Tungsten",
+  "number" : 74,
+  "oxidation_state" : "'''6''', 5, 4, 3, 2",
+  "phase" : "solid",
+  "possibleBounds" : 6,
+  "properties" : [ "natural", "native", "vital", "stable", "heavy", "refractory" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 32, 12, 2 ],
+  "standard_potential" : {
+    "value" : -0.119,
+    "additionalInfo" : "WO{2} + 4H[+] + 4e[-] → W + 2H{2}O"
+  },
+  "symbol" : "W",
+  "valenceElectrons" : -4
+}

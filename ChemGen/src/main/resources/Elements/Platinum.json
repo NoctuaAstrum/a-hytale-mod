@@ -1,0 +1,38 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 5.0
+    },
+    "CRUST" : {
+      "value" : 37.0
+    },
+    "SUN" : {
+      "value" : 9.0
+    },
+    "METEORITE" : {
+      "value" : 1000.0
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 195.0849,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 24,
+  "group" : 10,
+  "name" : "Platinum",
+  "number" : 78,
+  "oxidation_state" : "-2, 0, '''+2''', '''+4''', '''+6'''",
+  "phase" : "solid",
+  "possibleBounds" : 6,
+  "properties" : [ "natural", "native", "stable", "noble", "heavy", "platinum" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 32, 17, 1 ],
+  "standard_potential" : {
+    "value" : 1.118,
+    "additionalInfo" : "Pt[2+] + 2e[-] → Pt"
+  },
+  "symbol" : "Pt",
+  "valenceElectrons" : 0
+}

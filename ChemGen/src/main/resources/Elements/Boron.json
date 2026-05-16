@@ -1,0 +1,43 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 1.0
+    },
+    "CRUST" : {
+      "value" : 8700.0
+    },
+    "STREAM" : {
+      "value" : 10.0
+    },
+    "HUMAN" : {
+      "value" : 700.0
+    },
+    "SUN" : {
+      "value" : 2.0
+    },
+    "METEORITE" : {
+      "value" : 1600.0
+    },
+    "WATER" : {
+      "value" : 4440.0
+    }
+  },
+  "appearance" : "black-brown",
+  "atomicMass" : {
+    "value" : 10.811,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 27,
+  "group" : 13,
+  "name" : "Boron",
+  "number" : 5,
+  "oxidation_state" : "'''+3''', +2, +1",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "stable", "semiconductor" ],
+  "set" : "METALLOID",
+  "shell" : [ 2, 3 ],
+  "symbol" : "B",
+  "valenceElectrons" : 3
+}

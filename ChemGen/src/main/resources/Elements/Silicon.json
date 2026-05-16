@@ -1,0 +1,43 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 700000.0
+    },
+    "CRUST" : {
+      "value" : 2.7E8
+    },
+    "STREAM" : {
+      "value" : 5000.0
+    },
+    "HUMAN" : {
+      "value" : 260000.0
+    },
+    "SUN" : {
+      "value" : 900000.0
+    },
+    "METEORITE" : {
+      "value" : 1.4E8
+    },
+    "WATER" : {
+      "value" : 1000.0
+    }
+  },
+  "appearance" : "crystalline, reflective with bluish-tinged faces",
+  "atomicMass" : {
+    "value" : 28.08528,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 28,
+  "group" : 14,
+  "name" : "Silicon",
+  "number" : 14,
+  "oxidation_state" : "-4, (2), '''+4'''",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "natural", "native", "stable", "semiconductor" ],
+  "set" : "METALLOID",
+  "shell" : [ 2, 8, 4 ],
+  "symbol" : "Si",
+  "valenceElectrons" : 4
+}

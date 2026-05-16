@@ -1,0 +1,38 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.08
+    },
+    "CRUST" : {
+      "value" : 1700.0
+    },
+    "METEORITE" : {
+      "value" : 20.0
+    },
+    "WATER" : {
+      "value" : 0.002
+    }
+  },
+  "appearance" : "gray blue",
+  "atomicMass" : {
+    "value" : 180.94788,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 19,
+  "group" : 5,
+  "name" : "Tantalum",
+  "number" : 73,
+  "oxidation_state" : "5",
+  "phase" : "solid",
+  "possibleBounds" : 5,
+  "properties" : [ "natural", "stable", "heavy", "refractory" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 32, 11, 2 ],
+  "standard_potential" : {
+    "value" : -0.81,
+    "additionalInfo" : "½Ta{2}O{5} + 5H[+] + 5e[-] → Ta + 2½H{2}O"
+  },
+  "symbol" : "Ta",
+  "valenceElectrons" : -5
+}

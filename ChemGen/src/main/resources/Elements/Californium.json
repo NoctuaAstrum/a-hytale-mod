@@ -1,0 +1,25 @@
+{
+  "appearance" : "silvery",
+  "atomicMass" : {
+    "value" : 251.0,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 12,
+  "group" : 20,
+  "name" : "Californium",
+  "number" : 98,
+  "oxidation_state" : "(+2), '''+3''', (+4)",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "heavy", "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "radioactive",
+  "set" : "ACTINOIDE",
+  "shell" : [ 2, 8, 18, 32, 28, 8, 2 ],
+  "standard_potential" : {
+    "value" : -1.91,
+    "additionalInfo" : "Cf[3+] + 3e[-] → Cf"
+  },
+  "symbol" : "Cf",
+  "valenceElectrons" : -1
+}

@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.1
+    },
+    "CRUST" : {
+      "value" : 560.0
+    },
+    "STREAM" : {
+      "value" : 0.008
+    },
+    "SUN" : {
+      "value" : 1.0
+    },
+    "METEORITE" : {
+      "value" : 30.0
+    },
+    "WATER" : {
+      "value" : 1.5E-4
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 174.96681,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 17,
+  "group" : 19,
+  "name" : "Lutetium",
+  "number" : 71,
+  "oxidation_state" : "3",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "stable", "heavy", "rare" ],
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 32, 9, 2 ],
+  "standard_potential" : {
+    "value" : -2.3,
+    "additionalInfo" : "Lu[3+] + 3e[-] → Lu"
+  },
+  "symbol" : "Lu",
+  "valenceElectrons" : -1
+}

@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 50.0
+    },
+    "CRUST" : {
+      "value" : 130000.0
+    },
+    "STREAM" : {
+      "value" : 3.0
+    },
+    "HUMAN" : {
+      "value" : 50.0
+    },
+    "SUN" : {
+      "value" : 40.0
+    },
+    "METEORITE" : {
+      "value" : 6700.0
+    },
+    "WATER" : {
+      "value" : 0.026
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 91.2242,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 18,
+  "group" : 4,
+  "name" : "Zirconium",
+  "number" : 40,
+  "oxidation_state" : "4, 2",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "natural", "stable", "heavy", "refractory" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 10, 2 ],
+  "standard_potential" : {
+    "value" : -1.553,
+    "additionalInfo" : "ZrO{2} + 4H[+] + 4e[-] → Zr + 2H{2}O"
+  },
+  "symbol" : "Zr",
+  "valenceElectrons" : -6
+}

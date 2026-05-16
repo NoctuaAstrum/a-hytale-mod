@@ -1,0 +1,21 @@
+{
+  "appearance" : "silvery; glows blue in the dark",
+  "atomicMass" : {
+    "value" : 252.0,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 13,
+  "group" : 20,
+  "name" : "Einsteinium",
+  "number" : 99,
+  "oxidation_state" : "+2, '''+3''', (+4)",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "heavy", "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "significantly-radioactive",
+  "set" : "ACTINOIDE",
+  "shell" : [ 2, 8, 18, 32, 29, 8, 2 ],
+  "symbol" : "Es",
+  "valenceElectrons" : -1
+}

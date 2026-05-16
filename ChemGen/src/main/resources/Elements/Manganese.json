@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 8000.0
+    },
+    "CRUST" : {
+      "value" : 1100000.0
+    },
+    "STREAM" : {
+      "value" : 5.0
+    },
+    "HUMAN" : {
+      "value" : 200.0
+    },
+    "SUN" : {
+      "value" : 10000.0
+    },
+    "METEORITE" : {
+      "value" : 2800000.0
+    },
+    "WATER" : {
+      "value" : 2.0
+    }
+  },
+  "appearance" : "silvery metallic",
+  "atomicMass" : {
+    "value" : 54.938046,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 21,
+  "group" : 7,
+  "name" : "Manganese",
+  "number" : 25,
+  "oxidation_state" : "1, '''2''', 3, 4, (5), 6, 7",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "natural", "vital", "mononuclidic", "stable", "heavy" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 13, 2 ],
+  "standard_potential" : {
+    "value" : -1.18,
+    "additionalInfo" : "Mn[2+] + 2e[-] → Mn"
+  },
+  "symbol" : "Mn",
+  "valenceElectrons" : -3
+}

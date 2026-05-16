@@ -1,0 +1,25 @@
+{
+  "appearance" : "shiny gray metal",
+  "atomicMass" : {
+    "value" : 98.9063,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 21,
+  "group" : 7,
+  "name" : "Technetium",
+  "number" : 43,
+  "oxidation_state" : "-3 … 7",
+  "phase" : "solid",
+  "possibleBounds" : 6,
+  "properties" : [ "heavy", "radioactive", "artificial" ],
+  "radioactivity" : "slightly-radioactive",
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 13, 2 ],
+  "standard_potential" : {
+    "value" : 0.272,
+    "additionalInfo" : "TcO{2} + 4e[-] + 4H[+] → Tc + 2H{2}O"
+  },
+  "symbol" : "Tc",
+  "valenceElectrons" : -3
+}

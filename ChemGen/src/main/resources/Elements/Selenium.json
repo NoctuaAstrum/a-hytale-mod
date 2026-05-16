@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 30.0
+    },
+    "CRUST" : {
+      "value" : 50.0
+    },
+    "STREAM" : {
+      "value" : 0.2
+    },
+    "HUMAN" : {
+      "value" : 50.0
+    },
+    "METEORITE" : {
+      "value" : 13000.0
+    },
+    "WATER" : {
+      "value" : 0.45
+    }
+  },
+  "appearance" : "grey metallic-looking, red, and vitreous black allotropes",
+  "atomicMass" : {
+    "value" : 78.9718,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 30,
+  "group" : 16,
+  "name" : "Selenium",
+  "number" : 34,
+  "oxidation_state" : "±2, '''4''', 6",
+  "phase" : "solid",
+  "possibleBounds" : 6,
+  "properties" : [ "natural", "native", "vital", "stable", "semiconductor" ],
+  "set" : "METALLOID",
+  "shell" : [ 2, 8, 18, 6 ],
+  "standard_potential" : {
+    "value" : -0.67,
+    "additionalInfo" : "Se + 2e[-] → Se[2-]"
+  },
+  "symbol" : "Se",
+  "valenceElectrons" : 6
+}

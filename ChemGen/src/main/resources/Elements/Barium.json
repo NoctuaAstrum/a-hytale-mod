@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 10.0
+    },
+    "CRUST" : {
+      "value" : 340000.0
+    },
+    "STREAM" : {
+      "value" : 25.0
+    },
+    "HUMAN" : {
+      "value" : 300.0
+    },
+    "SUN" : {
+      "value" : 10.0
+    },
+    "METEORITE" : {
+      "value" : 2800.0
+    },
+    "WATER" : {
+      "value" : 30.0
+    }
+  },
+  "appearance" : "silvery gray; with a pale yellow tint",
+  "atomicMass" : {
+    "value" : 137.3277,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "S",
+  "column" : 2,
+  "group" : 2,
+  "name" : "Barium",
+  "number" : 56,
+  "oxidation_state" : "+2",
+  "phase" : "solid",
+  "possibleBounds" : 2,
+  "properties" : [ "natural", "stable", "light" ],
+  "set" : "ALKALINEEEARTHMETAL",
+  "shell" : [ 2, 8, 18, 18, 8, 2 ],
+  "standard_potential" : {
+    "value" : -2.92,
+    "additionalInfo" : "Ba[2+] + 2e[-] → Ba"
+  },
+  "symbol" : "Ba",
+  "valenceElectrons" : 2
+}

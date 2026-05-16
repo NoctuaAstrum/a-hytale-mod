@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 400.0
+    },
+    "CRUST" : {
+      "value" : 540000.0
+    },
+    "STREAM" : {
+      "value" : 100.0
+    },
+    "HUMAN" : {
+      "value" : 37000.0
+    },
+    "SUN" : {
+      "value" : 500.0
+    },
+    "METEORITE" : {
+      "value" : 89000.0
+    },
+    "WATER" : {
+      "value" : 1300.0
+    }
+  },
+  "appearance" : "very pale yellow (gas); bright yellow (liquid); alpha is opaque, beta is transparent (solid)",
+  "atomicMass" : {
+    "value" : 18.998404,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 31,
+  "group" : 17,
+  "name" : "Fluorine",
+  "number" : 9,
+  "oxidation_state" : "-1",
+  "phase" : "gas",
+  "possibleBounds" : 1,
+  "properties" : [ "natural", "vital", "mononuclidic", "stable" ],
+  "set" : "HALOGEN",
+  "shell" : [ 2, 7 ],
+  "standard_potential" : {
+    "value" : 2.87,
+    "additionalInfo" : "F + e[-] → F[-]"
+  },
+  "symbol" : "F",
+  "valenceElectrons" : 7
+}

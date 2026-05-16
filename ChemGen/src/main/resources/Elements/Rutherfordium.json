@@ -1,0 +1,18 @@
+{
+  "atomicMass" : {
+    "value" : 261.1087,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 18,
+  "group" : 4,
+  "name" : "Rutherfordium",
+  "number" : 104,
+  "possibleBounds" : 4,
+  "properties" : [ "heavy", "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "highly-radioactive",
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 32, 32, 10, 2 ],
+  "symbol" : "Rf",
+  "valenceElectrons" : -6
+}

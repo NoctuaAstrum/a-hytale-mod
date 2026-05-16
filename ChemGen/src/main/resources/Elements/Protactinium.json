@@ -1,0 +1,29 @@
+{
+  "abundance" : {
+    "CRUST" : {
+      "value" : 1.0E-5
+    },
+    "WATER" : {
+      "value" : 2.0E-16
+    }
+  },
+  "appearance" : "bright, silvery metallic luster",
+  "atomicMass" : {
+    "value" : 231.03589,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 5,
+  "group" : 20,
+  "name" : "Protactinium",
+  "number" : 91,
+  "oxidation_state" : "5",
+  "phase" : "solid",
+  "possibleBounds" : 5,
+  "properties" : [ "natural", "heavy", "radioactive", "artificial" ],
+  "radioactivity" : "radioactive",
+  "set" : "ACTINOIDE",
+  "shell" : [ 2, 8, 18, 32, 20, 9, 2 ],
+  "symbol" : "Pa",
+  "valenceElectrons" : -1
+}

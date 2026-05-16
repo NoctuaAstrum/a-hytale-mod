@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 10.0
+    },
+    "CRUST" : {
+      "value" : 33000.0
+    },
+    "STREAM" : {
+      "value" : 0.2
+    },
+    "SUN" : {
+      "value" : 3.0
+    },
+    "METEORITE" : {
+      "value" : 510.0
+    },
+    "WATER" : {
+      "value" : 0.0028
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 144.2423,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 6,
+  "group" : 19,
+  "name" : "Neodymium",
+  "number" : 60,
+  "oxidation_state" : "2, '''3''' , 4",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "stable", "heavy", "rare" ],
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 22, 8, 2 ],
+  "standard_potential" : {
+    "value" : -2.32,
+    "additionalInfo" : "Nd[3+] + 3e[-] → Nd"
+  },
+  "symbol" : "Nd",
+  "valenceElectrons" : -1
+}

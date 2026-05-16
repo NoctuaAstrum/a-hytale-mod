@@ -1,0 +1,30 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 10.0
+    },
+    "CRUST" : {
+      "value" : 0.02
+    },
+    "WATER" : {
+      "value" : 0.005
+    }
+  },
+  "appearance" : "colorless gas, exhibiting a blue glow when placed in an electric field",
+  "atomicMass" : {
+    "value" : 131.2936,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 32,
+  "group" : 18,
+  "name" : "Xenon",
+  "number" : 54,
+  "phase" : "gas",
+  "possibleBounds" : 6,
+  "properties" : [ "natural", "stable" ],
+  "set" : "NOBLEGAS",
+  "shell" : [ 2, 8, 18, 18, 8 ],
+  "symbol" : "Xe",
+  "valenceElectrons" : 8
+}

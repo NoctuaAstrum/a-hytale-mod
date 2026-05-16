@@ -1,0 +1,43 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 1000.0
+    },
+    "CRUST" : {
+      "value" : 190000.0
+    },
+    "STREAM" : {
+      "value" : 1.0
+    },
+    "HUMAN" : {
+      "value" : 30.0
+    },
+    "SUN" : {
+      "value" : 400.0
+    },
+    "METEORITE" : {
+      "value" : 62000.0
+    },
+    "WATER" : {
+      "value" : 1.5
+    }
+  },
+  "appearance" : "blue-silver-grey metal",
+  "atomicMass" : {
+    "value" : 50.94151,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 19,
+  "group" : 5,
+  "name" : "Vanadium",
+  "number" : 23,
+  "oxidation_state" : "'''+5''', +4 ,+3 ,+2",
+  "phase" : "solid",
+  "possibleBounds" : 5,
+  "properties" : [ "natural", "native", "vital", "stable", "heavy", "refractory" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 11, 2 ],
+  "symbol" : "V",
+  "valenceElectrons" : -5
+}

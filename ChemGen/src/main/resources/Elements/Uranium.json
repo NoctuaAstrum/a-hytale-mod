@@ -1,0 +1,48 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.2
+    },
+    "CRUST" : {
+      "value" : 1800.0
+    },
+    "STREAM" : {
+      "value" : 0.04
+    },
+    "HUMAN" : {
+      "value" : 1.0
+    },
+    "SUN" : {
+      "value" : 1.0
+    },
+    "METEORITE" : {
+      "value" : 10.0
+    },
+    "WATER" : {
+      "value" : 3.3
+    }
+  },
+  "appearance" : "silvery gray metallic; corrodes to a spalling black oxide coat in air",
+  "atomicMass" : {
+    "value" : 238.02892,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 6,
+  "group" : 20,
+  "name" : "Uranium",
+  "number" : 92,
+  "oxidation_state" : "+3, +4, +5, '''+6'''",
+  "phase" : "solid",
+  "possibleBounds" : 6,
+  "properties" : [ "natural", "heavy", "radioactive", "artificial" ],
+  "radioactivity" : "slightly-radioactive",
+  "set" : "ACTINOIDE",
+  "shell" : [ 2, 8, 18, 32, 21, 9, 2 ],
+  "standard_potential" : {
+    "value" : -1.66,
+    "additionalInfo" : "U[3+] + 3e[-] → U"
+  },
+  "symbol" : "U",
+  "valenceElectrons" : -1
+}

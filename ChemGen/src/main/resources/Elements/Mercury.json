@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 1.0
+    },
+    "CRUST" : {
+      "value" : 67.0
+    },
+    "STREAM" : {
+      "value" : 0.07
+    },
+    "SUN" : {
+      "value" : 20.0
+    },
+    "METEORITE" : {
+      "value" : 250.0
+    },
+    "WATER" : {
+      "value" : 0.05
+    }
+  },
+  "appearance" : "shiny, silvery liquid",
+  "atomicMass" : {
+    "value" : 200.5923,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 26,
+  "group" : 12,
+  "name" : "Mercury",
+  "number" : 80,
+  "oxidation_state" : "1, '''2''', 4",
+  "phase" : "liquid",
+  "possibleBounds" : 2,
+  "properties" : [ "natural", "native", "stable", "noble", "heavy", "antiquity" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 32, 18, 2 ],
+  "standard_potential" : {
+    "value" : 0.8535,
+    "additionalInfo" : "Hg[2+] + 2e[-] → Hg"
+  },
+  "symbol" : "Hg",
+  "valenceElectrons" : 2
+}

@@ -1,0 +1,18 @@
+{
+  "atomicMass" : {
+    "value" : 287.0,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 27,
+  "group" : 13,
+  "name" : "Nihonium",
+  "number" : 113,
+  "possibleBounds" : -1,
+  "properties" : [ "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "extremely-radioactive",
+  "set" : "UNKNOWN",
+  "shell" : [ 2, 8, 18, 32, 32, 18, 3 ],
+  "symbol" : "Nh",
+  "valenceElectrons" : 3
+}

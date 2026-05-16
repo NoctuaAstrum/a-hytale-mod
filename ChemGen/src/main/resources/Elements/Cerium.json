@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 10.0
+    },
+    "CRUST" : {
+      "value" : 60000.0
+    },
+    "STREAM" : {
+      "value" : 0.06
+    },
+    "SUN" : {
+      "value" : 4.0
+    },
+    "METEORITE" : {
+      "value" : 760.0
+    },
+    "WATER" : {
+      "value" : 0.0012
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 140.1161,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 4,
+  "group" : 19,
+  "name" : "Cerium",
+  "number" : 58,
+  "oxidation_state" : "'''3''', 4",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "natural", "stable", "heavy", "rare" ],
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 19, 9, 2 ],
+  "standard_potential" : {
+    "value" : -2.34,
+    "additionalInfo" : "Ce[3+] + 3e[-] → Ce"
+  },
+  "symbol" : "Ce",
+  "valenceElectrons" : -1
+}

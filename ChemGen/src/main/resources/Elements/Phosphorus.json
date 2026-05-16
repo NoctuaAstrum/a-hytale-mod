@@ -1,0 +1,43 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 7000.0
+    },
+    "CRUST" : {
+      "value" : 1000000.0
+    },
+    "STREAM" : {
+      "value" : 20.0
+    },
+    "HUMAN" : {
+      "value" : 1.1E7
+    },
+    "SUN" : {
+      "value" : 7000.0
+    },
+    "METEORITE" : {
+      "value" : 1100000.0
+    },
+    "WATER" : {
+      "value" : 70.0
+    }
+  },
+  "appearance" : "white, red and violet are waxy, black is metallic-looking",
+  "atomicMass" : {
+    "value" : 30.973763,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 29,
+  "group" : 15,
+  "name" : "Phosphorus",
+  "number" : 15,
+  "oxidation_state" : "±3, 4, '''5'''",
+  "phase" : "solid",
+  "possibleBounds" : 5,
+  "properties" : [ "natural", "vital", "mononuclidic", "stable" ],
+  "set" : "NONMETAL",
+  "shell" : [ 2, 8, 5 ],
+  "symbol" : "P",
+  "valenceElectrons" : 5
+}

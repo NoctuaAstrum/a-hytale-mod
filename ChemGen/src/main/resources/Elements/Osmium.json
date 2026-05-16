@@ -1,0 +1,38 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 3.0
+    },
+    "CRUST" : {
+      "value" : 1.8
+    },
+    "SUN" : {
+      "value" : 2.0
+    },
+    "METEORITE" : {
+      "value" : 670.0
+    }
+  },
+  "appearance" : "silvery, blue cast",
+  "atomicMass" : {
+    "value" : 190.233,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 22,
+  "group" : 8,
+  "name" : "Osmium",
+  "number" : 76,
+  "oxidation_state" : "-2, 0, 2, 3, '''4''', 6, 8",
+  "phase" : "solid",
+  "possibleBounds" : 6,
+  "properties" : [ "natural", "native", "stable", "noble", "heavy", "platinum" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 32, 14, 2 ],
+  "standard_potential" : {
+    "value" : 0.85,
+    "additionalInfo" : "OsO{4} + 8H[+] + 8e[-] → Os + 4H{2}O"
+  },
+  "symbol" : "Os",
+  "valenceElectrons" : -2
+}

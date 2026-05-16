@@ -1,0 +1,34 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 2.3E8
+    },
+    "CRUST" : {
+      "value" : 5.5
+    },
+    "SUN" : {
+      "value" : 2.3E8
+    },
+    "WATER" : {
+      "value" : 0.0072
+    }
+  },
+  "appearance" : "colorless gas, exhibiting a gray, cloudy glow",
+  "atomicMass" : {
+    "value" : 4.002602,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "S",
+  "column" : 32,
+  "group" : 18,
+  "name" : "Helium",
+  "number" : 2,
+  "oxidation_state" : "0",
+  "phase" : "gas",
+  "possibleBounds" : 0,
+  "properties" : [ "natural", "stable" ],
+  "set" : "NOBLEGAS",
+  "shell" : [ 2 ],
+  "symbol" : "He",
+  "valenceElectrons" : 8
+}

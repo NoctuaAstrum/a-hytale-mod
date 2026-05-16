@@ -1,0 +1,39 @@
+{
+  "abundance" : {
+    "CRUST" : {
+      "value" : 1.0E-4
+    },
+    "STREAM" : {
+      "value" : 4.0E-7
+    },
+    "HUMAN" : {
+      "value" : 1.0E-6
+    },
+    "WATER" : {
+      "value" : 1.0E-8
+    }
+  },
+  "appearance" : "silvery white metallic",
+  "atomicMass" : {
+    "value" : 226.0254,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "S",
+  "column" : 2,
+  "group" : 2,
+  "name" : "Radium",
+  "number" : 88,
+  "oxidation_state" : "2",
+  "phase" : "solid",
+  "possibleBounds" : 2,
+  "properties" : [ "natural", "heavy", "radioactive", "artificial" ],
+  "radioactivity" : "radioactive",
+  "set" : "ALKALINEEEARTHMETAL",
+  "shell" : [ 2, 8, 18, 32, 18, 8, 2 ],
+  "standard_potential" : {
+    "value" : -2.916,
+    "additionalInfo" : "Ra[2+] + 2e[-] → Ra"
+  },
+  "symbol" : "Ra",
+  "valenceElectrons" : 2
+}

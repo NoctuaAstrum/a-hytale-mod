@@ -1,0 +1,18 @@
+{
+  "atomicMass" : {
+    "value" : 268.0,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 23,
+  "group" : 9,
+  "name" : "Meitnerium",
+  "number" : 109,
+  "possibleBounds" : -1,
+  "properties" : [ "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "extremely-radioactive",
+  "set" : "UNKNOWN",
+  "shell" : [ 2, 8, 18, 32, 32, 15, 2 ],
+  "symbol" : "Mt",
+  "valenceElectrons" : -1
+}

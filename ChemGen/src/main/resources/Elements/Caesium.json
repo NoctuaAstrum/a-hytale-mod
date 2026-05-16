@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.8
+    },
+    "CRUST" : {
+      "value" : 1900.0
+    },
+    "STREAM" : {
+      "value" : 0.05
+    },
+    "HUMAN" : {
+      "value" : 20.0
+    },
+    "SUN" : {
+      "value" : 8.0
+    },
+    "METEORITE" : {
+      "value" : 140.0
+    },
+    "WATER" : {
+      "value" : 0.5
+    }
+  },
+  "appearance" : "pale gold",
+  "atomicMass" : {
+    "value" : 132.90546,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "S",
+  "column" : 1,
+  "group" : 1,
+  "name" : "Caesium",
+  "number" : 55,
+  "oxidation_state" : "+1",
+  "phase" : "solid",
+  "possibleBounds" : 1,
+  "properties" : [ "natural", "mononuclidic", "stable", "light" ],
+  "set" : "ALKALIMETAL",
+  "shell" : [ 2, 8, 18, 18, 8, 1 ],
+  "standard_potential" : {
+    "value" : -2.923,
+    "additionalInfo" : "Cs[+] + e[-] → Cs"
+  },
+  "symbol" : "Cs",
+  "valenceElectrons" : 1
+}

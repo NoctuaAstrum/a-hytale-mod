@@ -1,0 +1,28 @@
+{
+  "abundance" : {
+    "STREAM" : {
+      "value" : 2.0E-13
+    },
+    "WATER" : {
+      "value" : 6.0E-13
+    }
+  },
+  "appearance" : "colorless gas",
+  "atomicMass" : {
+    "value" : 222.0,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 32,
+  "group" : 18,
+  "name" : "Radon",
+  "number" : 86,
+  "phase" : "gas",
+  "possibleBounds" : 6,
+  "properties" : [ "natural", "radioactive", "artificial" ],
+  "radioactivity" : "significantly-radioactive",
+  "set" : "NOBLEGAS",
+  "shell" : [ 2, 8, 18, 32, 18, 8 ],
+  "symbol" : "Rn",
+  "valenceElectrons" : 8
+}

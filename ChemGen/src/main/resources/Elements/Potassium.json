@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 3000.0
+    },
+    "CRUST" : {
+      "value" : 1.5E7
+    },
+    "STREAM" : {
+      "value" : 2300.0
+    },
+    "HUMAN" : {
+      "value" : 2000000.0
+    },
+    "SUN" : {
+      "value" : 4000.0
+    },
+    "METEORITE" : {
+      "value" : 710000.0
+    },
+    "WATER" : {
+      "value" : 416000.0
+    }
+  },
+  "appearance" : "silvery white, faint bluish-purple hue when exposed to air",
+  "atomicMass" : {
+    "value" : 39.09831,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "S",
+  "column" : 1,
+  "group" : 1,
+  "name" : "Potassium",
+  "number" : 19,
+  "oxidation_state" : "-1, '''+1'''",
+  "phase" : "solid",
+  "possibleBounds" : 1,
+  "properties" : [ "natural", "vital", "stable", "light" ],
+  "set" : "ALKALIMETAL",
+  "shell" : [ 2, 8, 8, 1 ],
+  "standard_potential" : {
+    "value" : -2.931,
+    "additionalInfo" : "K[+] + e[-] → K"
+  },
+  "symbol" : "K",
+  "valenceElectrons" : 1
+}

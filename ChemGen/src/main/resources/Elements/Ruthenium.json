@@ -1,0 +1,37 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 4.0
+    },
+    "CRUST" : {
+      "value" : 1.0
+    },
+    "SUN" : {
+      "value" : 5.0
+    },
+    "METEORITE" : {
+      "value" : 830.0
+    },
+    "WATER" : {
+      "value" : 7.0E-4
+    }
+  },
+  "appearance" : "silvery white metallic",
+  "atomicMass" : {
+    "value" : 101.072,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 22,
+  "group" : 8,
+  "name" : "Ruthenium",
+  "number" : 44,
+  "oxidation_state" : "2, 3, '''4''', 6, 8",
+  "phase" : "solid",
+  "possibleBounds" : 6,
+  "properties" : [ "natural", "native", "stable", "noble", "heavy", "platinum" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 15, 1 ],
+  "symbol" : "Ru",
+  "valenceElectrons" : -2
+}

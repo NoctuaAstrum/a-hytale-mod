@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 3000.0
+    },
+    "CRUST" : {
+      "value" : 6600000.0
+    },
+    "STREAM" : {
+      "value" : 3.0
+    },
+    "SUN" : {
+      "value" : 4000.0
+    },
+    "METEORITE" : {
+      "value" : 550000.0
+    },
+    "WATER" : {
+      "value" : 1.0
+    }
+  },
+  "appearance" : "silvery grey-white metallic",
+  "atomicMass" : {
+    "value" : 47.8671,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 18,
+  "group" : 4,
+  "name" : "Titanium",
+  "number" : 22,
+  "oxidation_state" : "+2, +3, '''+4'''",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "natural", "native", "stable", "light", "refractory" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 10, 2 ],
+  "standard_potential" : {
+    "value" : -0.86,
+    "additionalInfo" : "TiO[2+] + 2H[+] + 4e[-] → Ti + H{2}O"
+  },
+  "symbol" : "Ti",
+  "valenceElectrons" : -6
+}

@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 2.0
+    },
+    "CRUST" : {
+      "value" : 3000.0
+    },
+    "STREAM" : {
+      "value" : 0.05
+    },
+    "SUN" : {
+      "value" : 1.0
+    },
+    "METEORITE" : {
+      "value" : 180.0
+    },
+    "WATER" : {
+      "value" : 9.0E-4
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 167.2593,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "F",
+  "column" : 14,
+  "group" : 19,
+  "name" : "Erbium",
+  "number" : 68,
+  "oxidation_state" : "3",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "stable", "heavy", "rare" ],
+  "set" : "LANTHANOIDE",
+  "shell" : [ 2, 8, 18, 30, 8, 2 ],
+  "standard_potential" : {
+    "value" : -2.32,
+    "additionalInfo" : "Er[3+] + 3e[-] → Er"
+  },
+  "symbol" : "Er",
+  "valenceElectrons" : -1
+}

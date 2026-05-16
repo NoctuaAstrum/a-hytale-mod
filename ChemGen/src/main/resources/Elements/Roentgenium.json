@@ -1,0 +1,18 @@
+{
+  "atomicMass" : {
+    "value" : 280.0,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 25,
+  "group" : 11,
+  "name" : "Roentgenium",
+  "number" : 111,
+  "possibleBounds" : -1,
+  "properties" : [ "radioactive", "artificial", "synthetic" ],
+  "radioactivity" : "extremely-radioactive",
+  "set" : "UNKNOWN",
+  "shell" : [ 2, 8, 18, 32, 32, 17, 2 ],
+  "symbol" : "Rg",
+  "valenceElectrons" : 1
+}

@@ -1,0 +1,44 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 30.0
+    },
+    "CRUST" : {
+      "value" : 26000.0
+    },
+    "STREAM" : {
+      "value" : 0.004
+    },
+    "SUN" : {
+      "value" : 40.0
+    },
+    "METEORITE" : {
+      "value" : 6500.0
+    },
+    "WATER" : {
+      "value" : 0.0015
+    }
+  },
+  "appearance" : "silvery white",
+  "atomicMass" : {
+    "value" : 44.95591,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 3,
+  "group" : 3,
+  "name" : "Scandium",
+  "number" : 21,
+  "oxidation_state" : "3",
+  "phase" : "solid",
+  "possibleBounds" : 3,
+  "properties" : [ "natural", "mononuclidic", "stable", "light", "rare" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 9, 2 ],
+  "standard_potential" : {
+    "value" : -2.03,
+    "additionalInfo" : "Sc[3+] + 3e[-] → Sc"
+  },
+  "symbol" : "Sc",
+  "valenceElectrons" : -7
+}

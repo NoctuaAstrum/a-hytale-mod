@@ -1,0 +1,42 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.7
+    },
+    "CRUST" : {
+      "value" : 25.0
+    },
+    "SUN" : {
+      "value" : 10.0
+    },
+    "METEORITE" : {
+      "value" : 70.0
+    },
+    "WATER" : {
+      "value" : 0.02
+    }
+  },
+  "appearance" : "lustrous brownish silver",
+  "atomicMass" : {
+    "value" : 208.98041,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "P",
+  "column" : 29,
+  "group" : 15,
+  "name" : "Bismuth",
+  "number" : 83,
+  "oxidation_state" : "(-3), 1, '''3''', 5",
+  "phase" : "solid",
+  "possibleBounds" : 5,
+  "properties" : [ "natural", "native", "mononuclidic", "heavy", "radioactive", "artificial" ],
+  "radioactivity" : "slightly-radioactive",
+  "set" : "METAL",
+  "shell" : [ 2, 8, 18, 32, 18, 5 ],
+  "standard_potential" : {
+    "value" : 0.317,
+    "additionalInfo" : "Bi[3+] + 3e[-] → Bi"
+  },
+  "symbol" : "Bi",
+  "valenceElectrons" : 5
+}

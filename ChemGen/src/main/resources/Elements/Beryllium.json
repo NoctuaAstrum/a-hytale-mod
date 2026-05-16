@@ -1,0 +1,47 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 1.0
+    },
+    "CRUST" : {
+      "value" : 1900.0
+    },
+    "STREAM" : {
+      "value" : 0.1
+    },
+    "HUMAN" : {
+      "value" : 0.4
+    },
+    "SUN" : {
+      "value" : 0.1
+    },
+    "METEORITE" : {
+      "value" : 30.0
+    },
+    "WATER" : {
+      "value" : 6.0E-4
+    }
+  },
+  "appearance" : "white-gray metallic",
+  "atomicMass" : {
+    "value" : 9.012183,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "S",
+  "column" : 2,
+  "group" : 2,
+  "name" : "Beryllium",
+  "number" : 4,
+  "oxidation_state" : "2",
+  "phase" : "solid",
+  "possibleBounds" : 2,
+  "properties" : [ "natural", "mononuclidic", "stable", "light" ],
+  "set" : "ALKALINEEEARTHMETAL",
+  "shell" : [ 2, 2 ],
+  "standard_potential" : {
+    "value" : -1.97,
+    "additionalInfo" : "Be[2+] + 2e[-] → Be"
+  },
+  "symbol" : "Be",
+  "valenceElectrons" : 2
+}

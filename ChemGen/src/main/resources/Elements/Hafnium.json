@@ -1,0 +1,41 @@
+{
+  "abundance" : {
+    "UNIVERSE" : {
+      "value" : 0.7
+    },
+    "CRUST" : {
+      "value" : 3300.0
+    },
+    "SUN" : {
+      "value" : 1.0
+    },
+    "METEORITE" : {
+      "value" : 170.0
+    },
+    "WATER" : {
+      "value" : 0.008
+    }
+  },
+  "appearance" : "steel gray",
+  "atomicMass" : {
+    "value" : 178.492,
+    "unitType" : "U"
+  },
+  "orbitalShellBlock" : "D",
+  "column" : 18,
+  "group" : 4,
+  "name" : "Hafnium",
+  "number" : 72,
+  "oxidation_state" : "2, 4",
+  "phase" : "solid",
+  "possibleBounds" : 4,
+  "properties" : [ "natural", "stable", "heavy", "refractory" ],
+  "set" : "TRANSITIONMETAL",
+  "shell" : [ 2, 8, 18, 32, 10, 2 ],
+  "standard_potential" : {
+    "value" : -1.505,
+    "additionalInfo" : "HfO{2} + 4H[+] + 4e[-] → Hf + 2H{2}O"
+  },
+  "symbol" : "Hf",
+  "valenceElectrons" : -6
+}
