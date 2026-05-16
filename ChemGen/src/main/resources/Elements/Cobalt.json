@@ -32,13 +32,13 @@
   "group" : 9,
   "name" : "Cobalt",
   "number" : 27,
-  "oxidation_state" : "'''2''', 3",
+  "oxidationState" : "'''2''', 3",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "natural", "vital", "mononuclidic", "stable", "heavy" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 15, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.28,
     "additionalInfo" : "Co[2+] + 2e[-] → Co"
   },

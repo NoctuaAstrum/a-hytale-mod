@@ -20,13 +20,13 @@
   "group" : 16,
   "name" : "Tellurium",
   "number" : 52,
-  "oxidation_state" : "'''-2''', (±1), 2, '''4''', 6",
+  "oxidationState" : "'''-2''', (±1), 2, '''4''', 6",
   "phase" : "solid",
   "possibleBounds" : 6,
   "properties" : [ "natural", "native", "stable", "semiconductor", "heavy" ],
   "set" : "METALLOID",
   "shell" : [ 2, 8, 18, 18, 6 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -1.143,
     "additionalInfo" : "Te + 2e[-] → Te[2-]"
   },

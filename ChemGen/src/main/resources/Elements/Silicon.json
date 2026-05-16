@@ -32,7 +32,7 @@
   "group" : 14,
   "name" : "Silicon",
   "number" : 14,
-  "oxidation_state" : "-4, (2), '''+4'''",
+  "oxidationState" : "-4, (2), '''+4'''",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "natural", "native", "stable", "semiconductor" ],

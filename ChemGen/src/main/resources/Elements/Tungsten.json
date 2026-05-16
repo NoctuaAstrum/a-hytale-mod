@@ -29,16 +29,16 @@
   "group" : 6,
   "name" : "Tungsten",
   "number" : 74,
-  "oxidation_state" : "'''6''', 5, 4, 3, 2",
+  "oxidationState" : "'''6''', 5, 4, 3, 2",
   "phase" : "solid",
   "possibleBounds" : 6,
   "properties" : [ "natural", "native", "vital", "stable", "heavy", "refractory" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 32, 12, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.119,
     "additionalInfo" : "WO{2} + 4H[+] + 4e[-] → W + 2H{2}O"
   },
   "symbol" : "W",
-  "valenceElectrons" : -4
+  "valenceElectrons" : -1
 }

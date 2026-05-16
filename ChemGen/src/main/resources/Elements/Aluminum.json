@@ -32,13 +32,13 @@
   "group" : 13,
   "name" : "Aluminum",
   "number" : 13,
-  "oxidation_state" : "1, 2, '''3'''",
+  "oxidationState" : "1, 2, '''3'''",
   "phase" : "solid",
   "possibleBounds" : 3,
   "properties" : [ "natural", "mononuclidic", "stable", "light" ],
   "set" : "METAL",
   "shell" : [ 2, 8, 3 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -1.676,
     "additionalInfo" : "Al[3+] + 3e[-] → Al"
   },

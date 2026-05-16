@@ -32,16 +32,16 @@
   "group" : 6,
   "name" : "Chromium",
   "number" : 24,
-  "oxidation_state" : "6, 3, 2, 1",
+  "oxidationState" : "6, 3, 2, 1",
   "phase" : "solid",
   "possibleBounds" : 6,
   "properties" : [ "natural", "native", "vital", "stable", "heavy", "refractory" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 13, 1 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.744,
     "additionalInfo" : "Cr[3+] + 3e[-] → Cr"
   },
   "symbol" : "Cr",
-  "valenceElectrons" : -4
+  "valenceElectrons" : -1
 }

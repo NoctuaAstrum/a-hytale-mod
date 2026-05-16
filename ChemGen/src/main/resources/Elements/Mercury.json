@@ -29,16 +29,16 @@
   "group" : 12,
   "name" : "Mercury",
   "number" : 80,
-  "oxidation_state" : "1, '''2''', 4",
+  "oxidationState" : "1, '''2''', 4",
   "phase" : "liquid",
   "possibleBounds" : 2,
   "properties" : [ "natural", "native", "stable", "noble", "heavy", "antiquity" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 32, 18, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : 0.8535,
     "additionalInfo" : "Hg[2+] + 2e[-] → Hg"
   },
   "symbol" : "Hg",
-  "valenceElectrons" : 2
+  "valenceElectrons" : -1
 }

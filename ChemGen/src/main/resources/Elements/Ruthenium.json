@@ -26,12 +26,12 @@
   "group" : 8,
   "name" : "Ruthenium",
   "number" : 44,
-  "oxidation_state" : "2, 3, '''4''', 6, 8",
+  "oxidationState" : "2, 3, '''4''', 6, 8",
   "phase" : "solid",
   "possibleBounds" : 6,
   "properties" : [ "natural", "native", "stable", "noble", "heavy", "platinum" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 15, 1 ],
   "symbol" : "Ru",
-  "valenceElectrons" : -2
+  "valenceElectrons" : -1
 }

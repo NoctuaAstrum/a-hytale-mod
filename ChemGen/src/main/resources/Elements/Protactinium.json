@@ -17,7 +17,7 @@
   "group" : 20,
   "name" : "Protactinium",
   "number" : 91,
-  "oxidation_state" : "5",
+  "oxidationState" : "5",
   "phase" : "solid",
   "possibleBounds" : 5,
   "properties" : [ "natural", "heavy", "radioactive", "artificial" ],

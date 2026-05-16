@@ -26,13 +26,13 @@
   "group" : 19,
   "name" : "Holmium",
   "number" : 67,
-  "oxidation_state" : "3",
+  "oxidationState" : "3",
   "phase" : "solid",
   "possibleBounds" : 3,
   "properties" : [ "natural", "mononuclidic", "stable", "heavy", "rare" ],
   "set" : "LANTHANOIDE",
   "shell" : [ 2, 8, 18, 29, 8, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -2.33,
     "additionalInfo" : "Ho[3+] + 3e[-] → Ho"
   },

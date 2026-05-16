@@ -32,13 +32,13 @@
   "group" : 1,
   "name" : "Potassium",
   "number" : 19,
-  "oxidation_state" : "-1, '''+1'''",
+  "oxidationState" : "-1, '''+1'''",
   "phase" : "solid",
   "possibleBounds" : 1,
   "properties" : [ "natural", "vital", "stable", "light" ],
   "set" : "ALKALIMETAL",
   "shell" : [ 2, 8, 8, 1 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -2.931,
     "additionalInfo" : "K[+] + e[-] → K"
   },

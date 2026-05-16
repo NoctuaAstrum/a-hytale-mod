@@ -32,13 +32,13 @@
   "group" : 14,
   "name" : "Lead",
   "number" : 82,
-  "oxidation_state" : "'''2''', 4",
+  "oxidationState" : "'''2''', 4",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "natural", "native", "stable", "heavy", "antiquity" ],
   "set" : "METAL",
   "shell" : [ 2, 8, 18, 32, 18, 4 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.1251,
     "additionalInfo" : "Pb[2+] + 2e[-] → Pb"
   },

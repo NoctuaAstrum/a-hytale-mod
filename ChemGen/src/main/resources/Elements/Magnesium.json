@@ -32,13 +32,13 @@
   "group" : 2,
   "name" : "Magnesium",
   "number" : 12,
-  "oxidation_state" : "1, '''2'''",
+  "oxidationState" : "1, '''2'''",
   "phase" : "solid",
   "possibleBounds" : 2,
   "properties" : [ "natural", "native", "vital", "stable", "light" ],
   "set" : "ALKALINEEEARTHMETAL",
   "shell" : [ 2, 8, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -2.372,
     "additionalInfo" : "Mg[2+] + 2e[-] → Mg"
   },

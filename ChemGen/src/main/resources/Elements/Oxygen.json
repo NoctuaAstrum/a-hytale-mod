@@ -32,13 +32,13 @@
   "group" : 16,
   "name" : "Oxygen",
   "number" : 8,
-  "oxidation_state" : "'''-2''', -1, 0, +1, +2",
+  "oxidationState" : "'''-2''', -1, 0, +1, +2",
   "phase" : "gas",
   "possibleBounds" : 2,
   "properties" : [ "natural", "vital", "stable" ],
   "set" : "NONMETAL",
   "shell" : [ 2, 6 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : 1.23
   },
   "symbol" : "O",

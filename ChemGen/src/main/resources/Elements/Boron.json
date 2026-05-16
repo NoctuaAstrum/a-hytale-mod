@@ -32,7 +32,7 @@
   "group" : 13,
   "name" : "Boron",
   "number" : 5,
-  "oxidation_state" : "'''+3''', +2, +1",
+  "oxidationState" : "'''+3''', +2, +1",
   "phase" : "solid",
   "possibleBounds" : 3,
   "properties" : [ "natural", "stable", "semiconductor" ],

@@ -32,7 +32,7 @@
   "group" : 15,
   "name" : "Nitrogen",
   "number" : 7,
-  "oxidation_state" : "-3, -2, -1, 0, 1, 2, '''3''', 4, 5",
+  "oxidationState" : "-3, -2, -1, 0, 1, 2, '''3''', 4, 5",
   "phase" : "gas",
   "possibleBounds" : 3,
   "properties" : [ "natural", "vital", "stable" ],

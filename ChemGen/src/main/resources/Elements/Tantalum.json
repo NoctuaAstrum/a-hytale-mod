@@ -23,16 +23,16 @@
   "group" : 5,
   "name" : "Tantalum",
   "number" : 73,
-  "oxidation_state" : "5",
+  "oxidationState" : "5",
   "phase" : "solid",
   "possibleBounds" : 5,
   "properties" : [ "natural", "stable", "heavy", "refractory" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 32, 11, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.81,
     "additionalInfo" : "½Ta{2}O{5} + 5H[+] + 5e[-] → Ta + 2½H{2}O"
   },
   "symbol" : "Ta",
-  "valenceElectrons" : -5
+  "valenceElectrons" : -1
 }

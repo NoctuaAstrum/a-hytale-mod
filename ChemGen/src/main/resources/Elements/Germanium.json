@@ -26,13 +26,13 @@
   "group" : 14,
   "name" : "Germanium",
   "number" : 32,
-  "oxidation_state" : "-4, 2, '''4'''",
+  "oxidationState" : "-4, 2, '''4'''",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "natural", "stable", "semiconductor", "heavy" ],
   "set" : "METALLOID",
   "shell" : [ 2, 8, 18, 4 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : 0.247,
     "additionalInfo" : "Ge[2+] + 2e[-] → Ge"
   },

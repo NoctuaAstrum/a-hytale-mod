@@ -32,13 +32,13 @@
   "group" : 2,
   "name" : "Beryllium",
   "number" : 4,
-  "oxidation_state" : "2",
+  "oxidationState" : "2",
   "phase" : "solid",
   "possibleBounds" : 2,
   "properties" : [ "natural", "mononuclidic", "stable", "light" ],
   "set" : "ALKALINEEEARTHMETAL",
   "shell" : [ 2, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -1.97,
     "additionalInfo" : "Be[2+] + 2e[-] → Be"
   },

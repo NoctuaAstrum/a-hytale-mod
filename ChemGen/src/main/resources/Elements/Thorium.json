@@ -29,7 +29,7 @@
   "group" : 20,
   "name" : "Thorium",
   "number" : 90,
-  "oxidation_state" : "4, 3, 2",
+  "oxidationState" : "4, 3, 2",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "natural", "mononuclidic", "heavy", "radioactive", "artificial" ],

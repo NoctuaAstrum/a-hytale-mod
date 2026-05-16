@@ -32,13 +32,13 @@
   "group" : 2,
   "name" : "Calcium",
   "number" : 20,
-  "oxidation_state" : "(+1) '''+2'''",
+  "oxidationState" : "(+1) '''+2'''",
   "phase" : "solid",
   "possibleBounds" : 2,
   "properties" : [ "natural", "vital", "stable", "light" ],
   "set" : "ALKALINEEEARTHMETAL",
   "shell" : [ 2, 8, 8, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -2.84,
     "additionalInfo" : "Ca[2+] + 2e[-] → Ca"
   },

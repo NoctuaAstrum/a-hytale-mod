@@ -23,13 +23,13 @@
   "group" : 9,
   "name" : "Rhodium",
   "number" : 45,
-  "oxidation_state" : "0, '''+1''', +2, '''+3''', +4",
+  "oxidationState" : "0, '''+1''', +2, '''+3''', +4",
   "phase" : "solid",
   "possibleBounds" : 6,
   "properties" : [ "natural", "native", "mononuclidic", "stable", "noble", "heavy", "platinum" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 16, 1 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : 0.76,
     "additionalInfo" : "Rh[3+] + 3e[-] → Rh"
   },

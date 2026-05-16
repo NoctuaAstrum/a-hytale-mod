@@ -32,13 +32,13 @@
   "group" : 17,
   "name" : "Fluorine",
   "number" : 9,
-  "oxidation_state" : "-1",
+  "oxidationState" : "-1",
   "phase" : "gas",
   "possibleBounds" : 1,
   "properties" : [ "natural", "vital", "mononuclidic", "stable" ],
   "set" : "HALOGEN",
   "shell" : [ 2, 7 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : 2.87,
     "additionalInfo" : "F + e[-] → F[-]"
   },

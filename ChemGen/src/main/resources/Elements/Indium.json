@@ -26,13 +26,13 @@
   "group" : 13,
   "name" : "Indium",
   "number" : 49,
-  "oxidation_state" : "'''3''', 1",
+  "oxidationState" : "'''3''', 1",
   "phase" : "solid",
   "possibleBounds" : 3,
   "properties" : [ "natural", "native", "stable", "heavy" ],
   "set" : "METAL",
   "shell" : [ 2, 8, 18, 18, 3 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.343,
     "additionalInfo" : "In[3+] + 3e[-] → In"
   },

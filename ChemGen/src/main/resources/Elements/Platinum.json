@@ -23,16 +23,16 @@
   "group" : 10,
   "name" : "Platinum",
   "number" : 78,
-  "oxidation_state" : "-2, 0, '''+2''', '''+4''', '''+6'''",
+  "oxidationState" : "-2, 0, '''+2''', '''+4''', '''+6'''",
   "phase" : "solid",
   "possibleBounds" : 6,
   "properties" : [ "natural", "native", "stable", "noble", "heavy", "platinum" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 32, 17, 1 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : 1.118,
     "additionalInfo" : "Pt[2+] + 2e[-] → Pt"
   },
   "symbol" : "Pt",
-  "valenceElectrons" : 0
+  "valenceElectrons" : -1
 }

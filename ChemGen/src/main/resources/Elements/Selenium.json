@@ -29,13 +29,13 @@
   "group" : 16,
   "name" : "Selenium",
   "number" : 34,
-  "oxidation_state" : "±2, '''4''', 6",
+  "oxidationState" : "±2, '''4''', 6",
   "phase" : "solid",
   "possibleBounds" : 6,
   "properties" : [ "natural", "native", "vital", "stable", "semiconductor" ],
   "set" : "METALLOID",
   "shell" : [ 2, 8, 18, 6 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.67,
     "additionalInfo" : "Se + 2e[-] → Se[2-]"
   },

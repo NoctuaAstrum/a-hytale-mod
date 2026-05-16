@@ -9,14 +9,14 @@
   "group" : 20,
   "name" : "Neptunium",
   "number" : 93,
-  "oxidation_state" : "+3, +4, '''+5''', +6, +7",
+  "oxidationState" : "+3, +4, '''+5''', +6, +7",
   "phase" : "solid",
   "possibleBounds" : 6,
   "properties" : [ "heavy", "radioactive", "artificial" ],
   "radioactivity" : "slightly-radioactive",
   "set" : "ACTINOIDE",
   "shell" : [ 2, 8, 18, 32, 22, 9, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -1.79,
     "additionalInfo" : "Np[3+] + 3e[-] → Np"
   },

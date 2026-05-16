@@ -32,7 +32,7 @@
   "group" : 15,
   "name" : "Phosphorus",
   "number" : 15,
-  "oxidation_state" : "±3, 4, '''5'''",
+  "oxidationState" : "±3, 4, '''5'''",
   "phase" : "solid",
   "possibleBounds" : 5,
   "properties" : [ "natural", "vital", "mononuclidic", "stable" ],

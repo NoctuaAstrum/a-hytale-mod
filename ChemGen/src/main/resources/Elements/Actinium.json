@@ -9,14 +9,14 @@
   "group" : 20,
   "name" : "Actinium",
   "number" : 89,
-  "oxidation_state" : "3",
+  "oxidationState" : "3",
   "phase" : "solid",
   "possibleBounds" : 3,
   "properties" : [ "natural", "heavy", "radioactive", "artificial" ],
   "radioactivity" : "significantly-radioactive",
   "set" : "ACTINOIDE",
   "shell" : [ 2, 8, 18, 32, 18, 9, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -2.13,
     "additionalInfo" : "Ac[3+] + 3e[-] → Ac"
   },

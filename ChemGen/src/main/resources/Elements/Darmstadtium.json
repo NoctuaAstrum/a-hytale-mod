@@ -14,5 +14,5 @@
   "set" : "UNKNOWN",
   "shell" : [ 2, 8, 18, 32, 32, 16, 2 ],
   "symbol" : "Ds",
-  "valenceElectrons" : 0
+  "valenceElectrons" : -1
 }

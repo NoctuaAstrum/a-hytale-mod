@@ -26,16 +26,16 @@
   "group" : 5,
   "name" : "Niobium",
   "number" : 41,
-  "oxidation_state" : "2, 4, '''5'''",
+  "oxidationState" : "2, 4, '''5'''",
   "phase" : "solid",
   "possibleBounds" : 5,
   "properties" : [ "natural", "mononuclidic", "stable", "heavy", "refractory" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 12, 1 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -1.1,
     "additionalInfo" : "Nb[2+] + 2e[-] → Nb"
   },
   "symbol" : "Nb",
-  "valenceElectrons" : -5
+  "valenceElectrons" : -1
 }

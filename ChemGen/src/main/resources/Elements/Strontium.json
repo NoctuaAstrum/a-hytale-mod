@@ -32,13 +32,13 @@
   "group" : 2,
   "name" : "Strontium",
   "number" : 38,
-  "oxidation_state" : "+2",
+  "oxidationState" : "+2",
   "phase" : "solid",
   "possibleBounds" : 2,
   "properties" : [ "natural", "stable", "light" ],
   "set" : "ALKALINEEEARTHMETAL",
   "shell" : [ 2, 8, 18, 8, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -2.89,
     "additionalInfo" : "Sr[2+] + 2e[-] → Sr"
   },

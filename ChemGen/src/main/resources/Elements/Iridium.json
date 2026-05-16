@@ -23,13 +23,13 @@
   "group" : 9,
   "name" : "Iridium",
   "number" : 77,
-  "oxidation_state" : "-3, -1, 0, 1, 2, '''3''', '''4''', 5, 6, 8, 9",
+  "oxidationState" : "-3, -1, 0, 1, 2, '''3''', '''4''', 5, 6, 8, 9",
   "phase" : "solid",
   "possibleBounds" : 6,
   "properties" : [ "natural", "native", "stable", "noble", "heavy", "platinum" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 32, 15, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : 1.156,
     "additionalInfo" : "Ir[3+] + 3e[-] → Ir"
   },

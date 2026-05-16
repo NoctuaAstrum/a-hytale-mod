@@ -26,16 +26,16 @@
   "group" : 7,
   "name" : "Rhenium",
   "number" : 75,
-  "oxidation_state" : "-3 … 7",
+  "oxidationState" : "-3 … 7",
   "phase" : "solid",
   "possibleBounds" : 7,
   "properties" : [ "natural", "stable", "heavy" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 32, 13, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.276,
     "additionalInfo" : "ReO{2} + 4H[+] + 4e[-] → Re + 2H{2}O"
   },
   "symbol" : "Re",
-  "valenceElectrons" : -3
+  "valenceElectrons" : -1
 }

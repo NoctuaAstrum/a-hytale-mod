@@ -32,13 +32,13 @@
   "group" : 1,
   "name" : "Rubidium",
   "number" : 37,
-  "oxidation_state" : "-1, '''+1'''",
+  "oxidationState" : "-1, '''+1'''",
   "phase" : "solid",
   "possibleBounds" : 1,
   "properties" : [ "natural", "stable", "light" ],
   "set" : "ALKALIMETAL",
   "shell" : [ 2, 8, 18, 8, 1 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -2.924,
     "additionalInfo" : "Rb[+] + e[-] → Rb"
   },

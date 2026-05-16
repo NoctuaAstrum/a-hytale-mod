@@ -29,7 +29,7 @@
   "group" : 19,
   "name" : "Gadolinium",
   "number" : 64,
-  "oxidation_state" : "2, '''3'''",
+  "oxidationState" : "2, '''3'''",
   "phase" : "solid",
   "possibleBounds" : 3,
   "properties" : [ "natural", "stable", "heavy", "rare" ],

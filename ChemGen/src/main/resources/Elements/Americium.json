@@ -9,14 +9,14 @@
   "group" : 20,
   "name" : "Americium",
   "number" : 95,
-  "oxidation_state" : "+2, '''+3''', +4, +5, +6, (+7)",
+  "oxidationState" : "+2, '''+3''', +4, +5, +6, (+7)",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "heavy", "radioactive", "artificial", "synthetic" ],
   "radioactivity" : "radioactive",
   "set" : "ACTINOIDE",
   "shell" : [ 2, 8, 18, 32, 25, 8, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -2.07,
     "additionalInfo" : "Am[3+] + 3e[-] → Am"
   },

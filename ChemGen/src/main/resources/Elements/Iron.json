@@ -32,16 +32,16 @@
   "group" : 8,
   "name" : "Iron",
   "number" : 26,
-  "oxidation_state" : "2, '''3''', 4, 5, 6",
+  "oxidationState" : "2, '''3''', 4, 5, 6",
   "phase" : "solid",
   "possibleBounds" : 3,
   "properties" : [ "natural", "native", "vital", "stable", "heavy", "antiquity" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 14, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.44,
     "additionalInfo" : "Fe[2+] + 2e[-] → Fe"
   },
   "symbol" : "Fe",
-  "valenceElectrons" : -2
+  "valenceElectrons" : -1
 }

@@ -29,13 +29,13 @@
   "group" : 17,
   "name" : "Iodine",
   "number" : 53,
-  "oxidation_state" : "±1, 3, 5, 7",
+  "oxidationState" : "±1, 3, 5, 7",
   "phase" : "solid",
   "possibleBounds" : 7,
   "properties" : [ "natural", "vital", "mononuclidic", "stable" ],
   "set" : "HALOGEN",
   "shell" : [ 2, 8, 18, 18, 7 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : 0.536,
     "additionalInfo" : "I{2} + 2e[-] → 2I[-]"
   },

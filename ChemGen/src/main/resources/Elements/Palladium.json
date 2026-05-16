@@ -23,16 +23,16 @@
   "group" : 10,
   "name" : "Palladium",
   "number" : 46,
-  "oxidation_state" : "0, '''+2''', +4",
+  "oxidationState" : "0, '''+2''', +4",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "natural", "native", "stable", "noble", "heavy", "platinum" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 18 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : 0.915,
     "additionalInfo" : "Pd[2+] + 2e[-] → Pd"
   },
   "symbol" : "Pd",
-  "valenceElectrons" : 0
+  "valenceElectrons" : -1
 }

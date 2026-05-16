@@ -29,16 +29,16 @@
   "group" : 3,
   "name" : "Yttrium",
   "number" : 39,
-  "oxidation_state" : "+3",
+  "oxidationState" : "+3",
   "phase" : "solid",
   "possibleBounds" : 3,
   "properties" : [ "natural", "mononuclidic", "stable", "light", "rare" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 9, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -2.37,
     "additionalInfo" : "Y[3+] + 3e[-] → Y"
   },
   "symbol" : "Y",
-  "valenceElectrons" : -7
+  "valenceElectrons" : -1
 }

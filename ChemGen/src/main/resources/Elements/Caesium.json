@@ -32,13 +32,13 @@
   "group" : 1,
   "name" : "Caesium",
   "number" : 55,
-  "oxidation_state" : "+1",
+  "oxidationState" : "+1",
   "phase" : "solid",
   "possibleBounds" : 1,
   "properties" : [ "natural", "mononuclidic", "stable", "light" ],
   "set" : "ALKALIMETAL",
   "shell" : [ 2, 8, 18, 18, 8, 1 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -2.923,
     "additionalInfo" : "Cs[+] + e[-] → Cs"
   },

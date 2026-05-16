@@ -26,16 +26,16 @@
   "group" : 4,
   "name" : "Hafnium",
   "number" : 72,
-  "oxidation_state" : "2, 4",
+  "oxidationState" : "2, 4",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "natural", "stable", "heavy", "refractory" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 32, 10, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -1.505,
     "additionalInfo" : "HfO{2} + 4H[+] + 4e[-] → Hf + 2H{2}O"
   },
   "symbol" : "Hf",
-  "valenceElectrons" : -6
+  "valenceElectrons" : -1
 }

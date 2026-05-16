@@ -29,16 +29,16 @@
   "group" : 4,
   "name" : "Titanium",
   "number" : 22,
-  "oxidation_state" : "+2, +3, '''+4'''",
+  "oxidationState" : "+2, +3, '''+4'''",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "natural", "native", "stable", "light", "refractory" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 10, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.86,
     "additionalInfo" : "TiO[2+] + 2H[+] + 4e[-] → Ti + H{2}O"
   },
   "symbol" : "Ti",
-  "valenceElectrons" : -6
+  "valenceElectrons" : -1
 }

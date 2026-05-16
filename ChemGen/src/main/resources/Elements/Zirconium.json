@@ -32,16 +32,16 @@
   "group" : 4,
   "name" : "Zirconium",
   "number" : 40,
-  "oxidation_state" : "4, 2",
+  "oxidationState" : "4, 2",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "natural", "stable", "heavy", "refractory" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 10, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -1.553,
     "additionalInfo" : "ZrO{2} + 4H[+] + 4e[-] → Zr + 2H{2}O"
   },
   "symbol" : "Zr",
-  "valenceElectrons" : -6
+  "valenceElectrons" : -1
 }

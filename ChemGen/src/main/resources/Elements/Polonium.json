@@ -14,14 +14,14 @@
   "group" : 16,
   "name" : "Polonium",
   "number" : 84,
-  "oxidation_state" : "(-2), 2, '''4''', 6",
+  "oxidationState" : "(-2), 2, '''4''', 6",
   "phase" : "solid",
   "possibleBounds" : 6,
   "properties" : [ "natural", "heavy", "radioactive", "artificial" ],
   "radioactivity" : "significantly-radioactive",
   "set" : "METAL",
   "shell" : [ 2, 8, 18, 32, 18, 6 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : 0.37,
     "additionalInfo" : "Po[2+] + 2e[-] → Po"
   },

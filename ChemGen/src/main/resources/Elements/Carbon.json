@@ -32,7 +32,7 @@
   "group" : 14,
   "name" : "Carbon",
   "number" : 6,
-  "oxidation_state" : "-4 … 4",
+  "oxidationState" : "-4 … 4",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "natural", "native", "vital", "stable", "semiconductor", "antiquity" ],

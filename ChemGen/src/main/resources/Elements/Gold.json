@@ -32,16 +32,16 @@
   "group" : 11,
   "name" : "Gold",
   "number" : 79,
-  "oxidation_state" : "-1, 0, +1, +2, '''+3''', +5",
+  "oxidationState" : "-1, 0, +1, +2, '''+3''', +5",
   "phase" : "solid",
   "possibleBounds" : 5,
   "properties" : [ "natural", "native", "mononuclidic", "stable", "noble", "heavy", "antiquity" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 32, 18, 1 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : 1.52,
     "additionalInfo" : "Au[3+] + 3e[-] → Au"
   },
   "symbol" : "Au",
-  "valenceElectrons" : 1
+  "valenceElectrons" : -1
 }

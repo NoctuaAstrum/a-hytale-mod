@@ -9,7 +9,7 @@
   "group" : 20,
   "name" : "Einsteinium",
   "number" : 99,
-  "oxidation_state" : "+2, '''+3''', (+4)",
+  "oxidationState" : "+2, '''+3''', (+4)",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "heavy", "radioactive", "artificial", "synthetic" ],

@@ -8,7 +8,7 @@
   "group" : 20,
   "name" : "Lawrencium",
   "number" : 103,
-  "oxidation_state" : "+3",
+  "oxidationState" : "+3",
   "phase" : "solid",
   "possibleBounds" : 3,
   "properties" : [ "radioactive", "artificial", "synthetic" ],

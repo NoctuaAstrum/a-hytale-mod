@@ -32,16 +32,16 @@
   "group" : 10,
   "name" : "Nickel",
   "number" : 28,
-  "oxidation_state" : "'''2''', (-1), 0, 1, 3, 4",
+  "oxidationState" : "'''2''', (-1), 0, 1, 3, 4",
   "phase" : "solid",
   "possibleBounds" : 2,
   "properties" : [ "natural", "native", "vital", "stable", "heavy" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 16, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.257,
     "additionalInfo" : "Ni[2+] + 2e[-] → Ni"
   },
   "symbol" : "Ni",
-  "valenceElectrons" : 0
+  "valenceElectrons" : -1
 }

@@ -32,16 +32,16 @@
   "group" : 7,
   "name" : "Manganese",
   "number" : 25,
-  "oxidation_state" : "1, '''2''', 3, 4, (5), 6, 7",
+  "oxidationState" : "1, '''2''', 3, 4, (5), 6, 7",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "natural", "vital", "mononuclidic", "stable", "heavy" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 13, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -1.18,
     "additionalInfo" : "Mn[2+] + 2e[-] → Mn"
   },
   "symbol" : "Mn",
-  "valenceElectrons" : -3
+  "valenceElectrons" : -1
 }

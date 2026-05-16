@@ -29,16 +29,16 @@
   "group" : 12,
   "name" : "Cadmium",
   "number" : 48,
-  "oxidation_state" : "2",
+  "oxidationState" : "2",
   "phase" : "solid",
   "possibleBounds" : 2,
   "properties" : [ "natural", "native", "stable", "heavy" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 18, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.403,
     "additionalInfo" : "Cd[2+] + 2e[-] → Cd"
   },
   "symbol" : "Cd",
-  "valenceElectrons" : 2
+  "valenceElectrons" : -1
 }

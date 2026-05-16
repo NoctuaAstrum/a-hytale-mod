@@ -32,12 +32,12 @@
   "group" : 5,
   "name" : "Vanadium",
   "number" : 23,
-  "oxidation_state" : "'''+5''', +4 ,+3 ,+2",
+  "oxidationState" : "'''+5''', +4 ,+3 ,+2",
   "phase" : "solid",
   "possibleBounds" : 5,
   "properties" : [ "natural", "native", "vital", "stable", "heavy", "refractory" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 11, 2 ],
   "symbol" : "V",
-  "valenceElectrons" : -5
+  "valenceElectrons" : -1
 }

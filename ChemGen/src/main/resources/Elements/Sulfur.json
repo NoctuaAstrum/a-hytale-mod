@@ -32,13 +32,13 @@
   "group" : 16,
   "name" : "Sulfur",
   "number" : 16,
-  "oxidation_state" : "±2 … +6",
+  "oxidationState" : "±2 … +6",
   "phase" : "solid",
   "possibleBounds" : 6,
   "properties" : [ "natural", "native", "vital", "stable", "antiquity" ],
   "set" : "NONMETAL",
   "shell" : [ 2, 8, 6 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.48,
     "additionalInfo" : "S + 2e[-] → S[2-]"
   },

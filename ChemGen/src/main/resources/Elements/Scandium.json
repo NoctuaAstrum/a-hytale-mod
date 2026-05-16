@@ -29,16 +29,16 @@
   "group" : 3,
   "name" : "Scandium",
   "number" : 21,
-  "oxidation_state" : "3",
+  "oxidationState" : "3",
   "phase" : "solid",
   "possibleBounds" : 3,
   "properties" : [ "natural", "mononuclidic", "stable", "light", "rare" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 9, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -2.03,
     "additionalInfo" : "Sc[3+] + 3e[-] → Sc"
   },
   "symbol" : "Sc",
-  "valenceElectrons" : -7
+  "valenceElectrons" : -1
 }

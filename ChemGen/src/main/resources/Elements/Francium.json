@@ -8,14 +8,14 @@
   "group" : 1,
   "name" : "Francium",
   "number" : 87,
-  "oxidation_state" : "+1",
+  "oxidationState" : "+1",
   "phase" : "solid",
   "possibleBounds" : 1,
   "properties" : [ "natural", "light", "radioactive", "artificial" ],
   "radioactivity" : "highly-radioactive",
   "set" : "ALKALIMETAL",
   "shell" : [ 2, 8, 18, 32, 18, 8, 1 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -2.92,
     "additionalInfo" : "Fr[+] + e[-] → Fr"
   },

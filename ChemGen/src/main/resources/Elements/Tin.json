@@ -32,13 +32,13 @@
   "group" : 14,
   "name" : "Tin",
   "number" : 50,
-  "oxidation_state" : "(-4), '''4''', 2",
+  "oxidationState" : "(-4), '''4''', 2",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "natural", "native", "stable", "semiconductor", "heavy", "antiquity" ],
   "set" : "METAL",
   "shell" : [ 2, 8, 18, 18, 4 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.137,
     "additionalInfo" : "Sn[2+] + 2e[-] → Sn"
   },

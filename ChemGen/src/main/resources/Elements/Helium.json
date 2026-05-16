@@ -23,7 +23,7 @@
   "group" : 18,
   "name" : "Helium",
   "number" : 2,
-  "oxidation_state" : "0",
+  "oxidationState" : "0",
   "phase" : "gas",
   "possibleBounds" : 0,
   "properties" : [ "natural", "stable" ],

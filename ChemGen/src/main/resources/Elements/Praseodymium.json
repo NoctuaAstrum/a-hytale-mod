@@ -29,13 +29,13 @@
   "group" : 19,
   "name" : "Praseodymium",
   "number" : 59,
-  "oxidation_state" : "'''3''', 4, 2",
+  "oxidationState" : "'''3''', 4, 2",
   "phase" : "solid",
   "possibleBounds" : 4,
   "properties" : [ "natural", "mononuclidic", "stable", "heavy", "rare" ],
   "set" : "LANTHANOIDE",
   "shell" : [ 2, 8, 18, 21, 8, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -2.35,
     "additionalInfo" : "Pr[3+] + 3e[-] → Pr"
   },

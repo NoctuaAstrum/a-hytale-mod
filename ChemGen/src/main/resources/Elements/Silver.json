@@ -29,16 +29,16 @@
   "group" : 11,
   "name" : "Silver",
   "number" : 47,
-  "oxidation_state" : "'''+1''', +2, +3",
+  "oxidationState" : "'''+1''', +2, +3",
   "phase" : "solid",
   "possibleBounds" : 1,
   "properties" : [ "natural", "native", "stable", "noble", "heavy", "antiquity" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 18, 1 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : 0.7991,
     "additionalInfo" : "Ag[+] + e[-] → Ag"
   },
   "symbol" : "Ag",
-  "valenceElectrons" : 1
+  "valenceElectrons" : -1
 }

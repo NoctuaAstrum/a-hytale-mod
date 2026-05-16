@@ -32,16 +32,16 @@
   "group" : 12,
   "name" : "Zinc",
   "number" : 30,
-  "oxidation_state" : "2",
+  "oxidationState" : "2",
   "phase" : "solid",
   "possibleBounds" : 2,
   "properties" : [ "natural", "native", "vital", "stable", "heavy", "antiquity" ],
   "set" : "TRANSITIONMETAL",
   "shell" : [ 2, 8, 18, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -0.7926,
     "additionalInfo" : "Zn[2+] + 2e[-] → Zn"
   },
   "symbol" : "Zn",
-  "valenceElectrons" : 2
+  "valenceElectrons" : -1
 }

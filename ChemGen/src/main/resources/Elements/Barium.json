@@ -32,13 +32,13 @@
   "group" : 2,
   "name" : "Barium",
   "number" : 56,
-  "oxidation_state" : "+2",
+  "oxidationState" : "+2",
   "phase" : "solid",
   "possibleBounds" : 2,
   "properties" : [ "natural", "stable", "light" ],
   "set" : "ALKALINEEEARTHMETAL",
   "shell" : [ 2, 8, 18, 18, 8, 2 ],
-  "standard_potential" : {
+  "standardPotential" : {
     "value" : -2.92,
     "additionalInfo" : "Ba[2+] + 2e[-] → Ba"
   },
